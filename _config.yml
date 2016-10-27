@@ -1,10 +1,10 @@
 ---
 # Program/Department Title
-title: Nuclear Energy
+title: Sociology
 # Site URL (without /)
 url: https://liberalarts.temple.edu
 # Subdirectory (with / at only at beginning)
-baseurl: /nuclearenergy
+baseurl: /sociology
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -16,20 +16,20 @@ keywords: highered, college, university, philadelphia, Temple
 
 # Address
 address:
-  building: Anderson Hall
-  room: 8th Floor, Room 832
-  street: 1114 Polett Walk
+  building: Gladfelter Hall
+  room: 713
+  street: 1115 Polett Walk
   city: Phialdelphia, PA 19122
 
 # Social Media
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social: 
-  # Facebook - https://facebook.com/USERNAME
+  # Facebook - https://www.facebook.com/groups/templesoc/
   # if your page does not have a custom URL, create one!
   facebook: TempleLiberalArts
-  # Twitter - https://twitter.com/USERNAME
-  twitter: TULiberalArts
+  # Twitter - https://twitter.com/TempleSoc
+  twitter: TempleSoc
   # Instagram - https://www.instagram.com/USERNAME
   instagram: TULiberalArts
   # Snapchat - USERNAME
