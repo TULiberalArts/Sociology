@@ -3,7 +3,21 @@ title: Undergraduate
 permalink: "/undergraduate"
 layout: page
 ---
+Our bachelor’s program teaches students about sociology, the study of human behavior in the context of the groups, organizations, institutions and societies in which it occurs. We offer courses covering a wide range of topics, including: race and racism, sexuality and gender, health and health care, education, urban life, housing, organizations, family, political life, popular culture, immigration, international development and globalization. The degree prepares students for many careers and graduate programs and provides a broad sociological perspective and specific research, statistical and analytic skills.
 
-The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
+Students who are interested in a career in the health field can pursue a special sociology major focused on health-related coursework.
 
-The Global Studies Program is the latest step in the globalization of the College of Liberal Arts.  Starting in the Fall of 2015, Temple undergraduates can declare a major in Global Studies – an interdisciplinary program bringing together coursework from across a dozen departments, focused on the study of Global Security, Global Economy, and Global Cultures, and complemented by intensive language instruction and study abroad options.
+## flexible Coursework
+
+Our program allows students to specialize in a wide range of areas, all of which are pressing public and social issues: health and medicine, racial and ethnic inequality,  globalization and immigration, urban studies, and the  sociology of gender and sexuality. Students tailor their coursework to fit their specific interests and desired  
+career paths.
+
+
+## Academic offerings
+
+ - BS in Sociology
+ - BS in Sociology of Health
+ - Minor in Sociology
+ - Minor in Sociology of Health
+ - Certificate in Health Research
+ - 4+1 Program: BA in Sociology + MA in Education
