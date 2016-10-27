@@ -7,7 +7,7 @@ Our bachelor’s program teaches students about sociology, the study of human be
 
 Students who are interested in a career in the health field can pursue a special sociology major focused on health-related coursework.
 
-## flexible Coursework
+## Flexible Coursework
 
 Our program allows students to specialize in a wide range of areas, all of which are pressing public and social issues: health and medicine, racial and ethnic inequality,  globalization and immigration, urban studies, and the  sociology of gender and sexuality. Students tailor their coursework to fit their specific interests and desired  
 career paths.
