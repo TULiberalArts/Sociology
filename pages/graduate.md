@@ -4,6 +4,15 @@ permalink: "/graduate"
 layout: page
 ---
 
-The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
+We offer a program devoted to the training of research scholars and educators in the discipline. We provide advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity and urban sociology. The program encourages students to participate in seminars in other disciplines, including: anthropology, criminal justice, geography and urban studies, history, political science, psychology, urban education and women’s studies.
 
-The Global Studies Program is the latest step in the globalization of the College of Liberal Arts.  Starting in the Fall of 2015, Temple graduates can declare a major in Global Studies – an interdisciplinary program bringing together coursework from across a dozen departments, focused on the study of Global Security, Global Economy, and Global Cultures, and complemented by intensive language instruction and study abroad options.
+We offer a PhD in sociology devoted to the training of research scholars and educators in the discipline. The program provides advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity and urban sociology. Graduates of the program are typically employed as teaching-research scholars in an academic setting, or as applied researchers and administrators.
+
+## Career Enhancing Coursework
+
+We offer a series of research methods courses — both  quantitative and qualitative — that equip students with the hard analytical skills that employers desire
+
+## Academic offerings
+
+ - MA in Sociology
+ - PhD in Sociology
