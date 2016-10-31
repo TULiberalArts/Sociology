@@ -31,7 +31,7 @@ Four electives (additional theory or methods classes can count as electives)
 Students are also strongly encouraged to participate in department activities such as colloquia and brownbag sessions.
  
 MA in Sociology with a Certificate in GIS
-The Geography & Urban Studies offers a 4-course certificate in Geographical Information Systems (GIS). Sociology MA students who wish to enroll in the GIS certificate should notify the graduate chair of their interest in the certificate as early as possible. GIS is an important research method and the certificate can increase competitiveness on the job market. 2 of the four courses can count as electives towards the MA. In this case, the MA student cannot take any additional courses from outside the department, except by special petition. More information about the certificate is available at http://www.cla.temple.edu/gus/graduate/psm-welcome/graduate-certificate-in-gis/.
+The Geography & Urban Studies offers a 4-course certificate in Geographical Information Systems (GIS). Sociology MA students who wish to enroll in the GIS certificate should notify the graduate chair of their interest in the certificate as early as possible. GIS is an important research method and the certificate can increase competitiveness on the job market. 2 of the four courses can count as electives towards the MA. In this case, the MA student cannot take any additional courses from outside the department, except by special petition. More information about the certificate is available at [http://www.cla.temple.edu/gus/graduate/graduate-certificate-in-gis/](http://www.cla.temple.edu/gus/graduate/graduate-certificate-in-gis/). 
  
 Independent Study courses
  
