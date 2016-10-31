@@ -23,8 +23,8 @@ career paths.
  - 4+1 Program: BA in Sociology + MA in Education
  
 ## Undergraduate Program Requirements for:
-[Bachelor of Arts in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology/)
-[Bachelor of Arts in Sociology: Health Track](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology-health-track/)
-[Certificate in Health Research](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/certificate-health-research/)
-[Minor in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology/)
-[Minor in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology-health/)
+- [Bachelor of Arts in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology/)
+- [Bachelor of Arts in Sociology: Health Track](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology-health-track/)
+- [Certificate in Health Research](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/certificate-health-research/)
+- [Minor in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology/)
+- [Minor in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology-health/)
