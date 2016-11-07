@@ -1,0 +1,18 @@
+language: ruby
+rvm:
+- 2.2.5
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+sudo: false
+branches:
+  only:
+  - master
+install:
+- bundle install
+script:
+- bundle exec jekyll build
+- timeout 120s bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href --external_only --only-4xx --http-status-ignore 429
+deploy:
+  provider: azure_web_apps
+  skip_cleanup: true
