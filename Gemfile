@@ -18,7 +18,7 @@ gem "minima"
 gem "tutheme", :git => 'https://github.com/TULiberalArts/TUTheme.git'
 
 # For serving the built site
-gem "htmlproofer"
+gem "html-proofer"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
