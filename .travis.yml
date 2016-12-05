@@ -13,6 +13,8 @@ install:
 script:
 - bundle exec jekyll build
 - timeout 120s bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href --external_only --only-4xx --http-status-ignore 429
-deploy:
-  provider: azure_web_apps
-  skip_cleanup: true
+after_success: s3_website push
+notifications:
+  slack:
+    secure: Wk3wMgG9nvgXc2oiuFH2VmVnWeaZiw08Q4L0h1zycxY96BRo+kOWtQUT8pGdS/rqZVE/XbK/ysgh83MDsDxUq0pmwvrO2xbOUJK4U9HZ31ZMuVeYuKjK9nCvfTeSO2AjnuDYZS0koDVHI2hEPtqLF0SE/+9p7PmqVZQORaCOhQba6H2yfKc1JHatLXRD2TPQJUllSgTAsektWbuZUjVlhs8145NoeFcbZMTRmCInNDc/xI4Dxlahzc86UE5oLnqC786wx5lnVI4qC3YZLbv8iArNcwLw4fIeXCZB1EaeBkj/ELmr8U/CbYj05KJWYG1lMe3muchH00iuYc1grQhwUZIm98c438W9UgDFnAof6e4Mbj2mbHNwD71mLBeyqOY2nqoMeAAhnhZWv7uVVbcfWrZ1mSlNc7v3cGTDmoHZ8HNn8VuebJ0KSkEax4aSSL2H30QavvOAP1nzK3qEyyxuDmLumbW33q7GzDr02D6a7jE6pHZQZWey6RfZJScsmCNiwr3em/GqiXWAuSJqXHWOhjE7XEpel1guJXI7cklCrvrR4ID+J8uMVAYekkE6EZYCpmjShflaLXg+ZdDhd89Y3evw/j3Vqoprmv7Nm6UL+nwfjMwwGdIKsxRGkQDpt+sKiPLDumaB9nM3Ba3CamIAqUoIZuXnHbuL0HdcOsP8Jug=
+
