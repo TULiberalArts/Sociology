@@ -63,12 +63,9 @@ markdown: kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 timezone: UTC
 collections:
-  # faculty:
-  #   title: Faculty
-  #   output: true
   pages:
     title: Pages
     output: true
@@ -105,3 +102,5 @@ prose:
               value: page
             - name: faculty
               value: faculty
+            - name: home
+              value: home
