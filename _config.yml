@@ -15,11 +15,13 @@ description: 'Example of what the TU Theme will look like and all the wiz-bang t
 keywords: highered, college, university, philadelphia, Temple
 
 # Address
-address:
+address: 1115 Polett Walk
   building: Gladfelter Hall
   room: 713
   street: 1115 Polett Walk
   city: Phialdelphia, PA 19122
+  email: sociology@temple.edu
+  phone: 2152047760
 
 # Social Media
 # Put in only the username unless otherwise noted
