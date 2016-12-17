@@ -12,7 +12,7 @@ install:
 - bundle install
 script:
 - bundle exec jekyll build
-- timeout 120s bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href
+- timeout 240s bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href
   --external_only --only-4xx --http-status-ignore 429
 after_success: s3_website push
 notifications:
