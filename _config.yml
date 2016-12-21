@@ -15,7 +15,7 @@ description: 'Example of what the TU Theme will look like and all the wiz-bang t
 keywords: highered, college, university, philadelphia, Temple
 
 # Address
-address: 
+address:
   building: Gladfelter Hall
   room: 713
   street: 1115 Polett Walk
@@ -26,7 +26,7 @@ address:
 # Social Media
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
-social: 
+social:
   # Facebook - https://www.facebook.com/groups/templesoc/
   # if your page does not have a custom URL, create one!
   facebook: TempleLiberalArts
@@ -35,19 +35,19 @@ social:
   # Instagram - https://www.instagram.com/USERNAME
   instagram: TULiberalArts
   # Snapchat - USERNAME
-  snapchat: 
+  snapchat:
   # GitHub - https://github.com/USERNAME or https://github.com/USERNAME/REPO
-  github: 
+  github:
   # DeviantArt - http://USERNAME.deviantart.com/
-  deviantart: 
+  deviantart:
   # Vimeo - https://vimeo.com/USERNAME
-  vimeo: 
+  vimeo:
   # YouTube - Paste the FULL URL below
-  youtube: 
+  youtube:
   # LinkedIn - Paste the FULL URL below
-  linkedin: 
+  linkedin:
   # Slack - Paste the FULL URL below
-  slack: 
+  slack:
 
 # University & College Information
 university: Temple University
@@ -106,3 +106,13 @@ prose:
               value: faculty
             - name: home
               value: home
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - s3_website.yml
+  - .sass-cache
+  - .travis.yml
+  - .ruby-version
+  - .gitignore
