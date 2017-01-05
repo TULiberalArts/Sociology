@@ -1,7 +1,8 @@
 ---
 title: Graduate
-permalink: "/graduate"
+permalink: /graduate
 layout: page
+published: true
 ---
 
 We offer a program devoted to the training of research scholars and educators in the discipline. We provide advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity and urban sociology. The program encourages students to participate in seminars in other disciplines, including: anthropology, criminal justice, geography and urban studies, history, political science, psychology, urban education and women’s studies.
@@ -14,14 +15,15 @@ We offer a series of research methods courses — both  quantitative and qualita
 
 ## Academic offerings
 
- - MA in Sociology
- - PhD in Sociology
+ - [MA in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-ma/)
+ - [PhD in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-phd/)
  
 ## MASTER'S PROGRAM
 
 Click [here](http://bulletin.temple.edu/graduate/scd/cla/sociology-ma/) to view the Sociology MA as listed in the Temple Graduate Bulletin.
 
-Requirements for the Master’s Degree
+Requirements for the Master’s Degree:
+
 Students in the master’s program must complete the 10 courses.
 One course in theory (8111 or 9111)
 One course on the logic of inquiry (8011)
