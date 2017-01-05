@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate"
+permalink: /undergraduate
 layout: page
+published: true
 ---
 Our bachelor’s program teaches students about sociology, the study of human behavior in the context of the groups, organizations, institutions and societies in which it occurs. We offer courses covering a wide range of topics, including: race and racism, sexuality and gender, health and health care, education, urban life, housing, organizations, family, political life, popular culture, immigration, international development and globalization. The degree prepares students for many careers and graduate programs and provides a broad sociological perspective and specific research, statistical and analytic skills.
 
@@ -15,11 +16,11 @@ career paths.
 
 ## Academic offerings
 
- - BS in Sociology
- - BS in Sociology of Health
- - Minor in Sociology
- - Minor in Sociology of Health
- - Certificate in Health Research
+ - [BS in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology/)
+ - [BS in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology-health-track/)
+ - [Minor in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology/)
+ - [Minor in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology-health/)
+ - [Certificate in Health Research](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/certificate-health-research/)
  - 4+1 Program: BA in Sociology + MA in Education
  
 ## Undergraduate Program Requirements for:
