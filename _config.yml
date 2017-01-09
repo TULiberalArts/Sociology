@@ -55,6 +55,9 @@ university.url: https://temple.edu/
 college: College of Liberal Arts
 college.url: https://liberalarts.temple.edu/
 
+# Google Analytics
+google_analytics: UA-22450319-1
+
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
 theme: tutheme
