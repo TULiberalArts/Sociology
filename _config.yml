@@ -106,6 +106,8 @@ prose:
               value: faculty
             - name: home
               value: home
+
+# Jekyll Ignore
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -116,3 +118,6 @@ exclude:
   - .travis.yml
   - .ruby-version
   - .gitignore
+  - vendor
+  - _site
+  - node_modules
