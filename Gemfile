@@ -1,4 +1,6 @@
 source "https://rubygems.org"
+
+# Assumuing Ruby 2.3+
 ruby RUBY_VERSION
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -8,8 +10,9 @@ ruby RUBY_VERSION
 #     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
+# Must at least Jekyll 3.3 for theme support
 # Happy Jekylling!
-gem "jekyll", "~> 3"
+gem "jekyll", "~> 3.3"
 
 # This is the default theme for new Jekyll sites.
 gem "minima"
