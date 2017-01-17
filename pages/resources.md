@@ -78,3 +78,48 @@ Note that most organizations have formal application procedures that may require
 - [Internships.com](http://www.internships.com/pennsylvania) (PA page)
  
 ** [CLICK HERE TO DOWNLOAD THE INTERNSHIP APPLICATION](http://www.cla.temple.edu/sociology/internship/documents/SociologyInternshipApplication.docx)
+
+## Sociology Undergraduate Majors and Minors Association (SUMMA)
+
+** [Join SUMMA on OWLConnect](https://temple.collegiatelink.net/organization/SUMMAatTemple/)!
+
+** 2015-16 Officers
+
+Robyn Moore, Co-President
+Rosalie Brown, Co-President
+Katrina Miller, Vice-President
+Emily Mann, Secretary
+Samta Amin, Treasurer
+Jillian Roth, Activites Chair
+Cher Christnacht, Events Coordinator
+Humza Ismail, Communications Director
+Kaela Mitten, Interdisicplinary Liasion
+Dejah Davis, Fundraising Chair
+Tara Soto, TSG Representative
+ 
+Faculty Advisor: Prof. Amanda Czerniawski
+ 
+SUMMA is the official undergraduate association for sociology majors and minors. Its purpose is to promote Interdisciplinary applications of sociology both academically and professionally, to promote awareness of sociological issues, and to provide a means for student involvement and public events for the benefit of the Temple Community. For more information, follow SUMMA on Facebook and Twitter!
+
+## Our Mission
+
+1. Take our sociological imaginations outside of the classroom.
+
+2. Organize academic and social events for undergraduate students who are majors and minors in sociology.
+
+3. Facilitate greater connectivity between students and the sociology department at Temple University.
+ 
+4. Recruit & train volunteers for the Sociology Ambassadors Program.
+ 
+## Statement of Inclusion
+
+As sociology students, we strive to bring unity by using our sociological imaginations to highlight the measures of inequality personal to each of us. Our officers embrace events and planning enriched and improved by diversity along a number of intersecting dimensions, including race, religion, skin color, gender, nationality, sexual orientation, physical abilities, age, veteran status, and life experience.
+ 
+We are especially committed to increasing the representation of those populations that have been historically excluded from participation in U.S. higher education. We work to pinpoint and promote practices and structures that aid in the development of diverse and inclusive spaces. We especially encourage individuals from underrepresented groups to join our organization and strive to collaborate with other organizations who present dedication to diversity.
+ 
+The inclusion of underrepresented groups in SUMMA is important: (1) to address and understand systematic inequalities facing American institutions and society, (2) to facilitate a new generation of ideas and leaders within the discipline, and (3) to cultivate civil discourse among diverse parties. We are committed to provide the support necessary for the success of all members of SUMMA.
+ 
+## SUMMA Newsletter Archive
+
+- [October 2015, Issue 2](https://www.smore.com/sprcc)
+- [October 2015, Issue 1](https://www.smore.com/rp34d)
