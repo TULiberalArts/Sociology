@@ -1,10 +1,11 @@
 ---
 title: Next Stops
-permalink: "/next-stops"
+permalink: /next-stops
 layout: page
+published: true
 ---
 
-We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs
+We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs.
 
 ## Internships
 
