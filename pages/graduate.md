@@ -18,7 +18,9 @@ We offer a series of research methods courses — both  quantitative and qualita
  - [MA in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-ma/)
  - [PhD in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-phd/)
  
-## MASTER'S PROGRAM
+<!-- Move all that follows (until next comment) to a child page of Graduate entitled "Master's" -->
+
+## M.A. in Sociology
 
 Click [here](http://bulletin.temple.edu/graduate/scd/cla/sociology-ma/) to view the Sociology MA as listed in the Temple Graduate Bulletin.
 
@@ -101,7 +103,9 @@ The master’s degree in sociology will be awarded to any candidate who successf
  
 The academic calendar for each year provides the date by which students must submit an application for graduation to the Bursar’s Office, Carnell Hall, First Floor. The Graduation Application for Master’s Degrees Form can be accessed online or obtained in the department office.
 
-## PHD PROGRAM
+<!-- Move all that follows (until next comment) to a child page of Graduate entitled "PhD" -->
+
+## PhD in Sociology
 
 Click [here](http://bulletin.temple.edu/graduate/scd/cla/sociology-phd/) to view the Sociology PhD as listed in the Temple Graduate Bulletin.
  
