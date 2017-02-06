@@ -1,6 +1,6 @@
 ---
 title: Graduate
-permalink: /graduate
+permalink: /graduate/
 layout: page
 published: true
 ---
