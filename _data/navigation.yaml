@@ -1,12 +1,12 @@
 - text: Undergraduate
-  url: /undergraduate
+  url: /undergraduate/
 - text: Graduate
-  url: /graduate
+  url: /graduate/
 - text: Faculty
-  url: /faculty
+  url: /faculty/
 - text: Research
-  url: /research
+  url: /research/
 - text: Resources
-  url : /resources
+  url : /resources/
 - text: Next Stops
-  url : /next-stops
+  url : /next-stops/
