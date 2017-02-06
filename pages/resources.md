@@ -19,7 +19,7 @@ Note that most organizations have formal application procedures that may require
 ### Sample Placement Sites
 
 - [Adelphi Research Group](http://www.adelphiresearch.com/)
-- [AVID](http://www.phennd.org/index.php/initiatives/initiatives/gear_up/)
+- AVID
 - [Campaign for Working Families](http://www.cwfphilly.org/)
 - [Center City Crime Victims Services](http://www.cccvs.org/)
 - [Equality PA](http://equalitypa.org/)
