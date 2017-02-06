@@ -9,4 +9,4 @@ Sociology is the scientific study of social behaviors, structures and institutio
 
 As we look for answers, we teach our students the skills necessary to become independent thinkers and leaders in the global and urban 21st century.
 
-For further information regarding Sociology requirements and to make an appointment with a sociology advisor, contact the undergraduate coordinator at [215-204-1494](tel:2152041494)
+For further information regarding sociology requirements and to make an appointment with a sociology advisor, contact the undergraduate coordinator at [215-204-1494](tel:2152041494)
