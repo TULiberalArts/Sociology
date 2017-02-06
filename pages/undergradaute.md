@@ -1,6 +1,6 @@
 ---
 title: Undergraduate
-permalink: /undergraduate
+permalink: /undergraduate/
 layout: page
 published: true
 ---
