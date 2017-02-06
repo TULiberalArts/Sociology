@@ -1,6 +1,6 @@
 ---
 title: Next Stops
-permalink: /next-stops
+permalink: /next-stops/
 layout: page
 published: true
 ---
