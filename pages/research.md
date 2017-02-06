@@ -1,10 +1,11 @@
 ---
 title: Research
-permalink: "/research"
+permalink: /research
 layout: page
+published: true
 ---
 
-#Affiliated Research Centers
+# Affiliated Research Centers
 
 - Center for Vietnamese Philosophy, Culture, and Society at Temple University  
-- Institute for Survey Research 
+- Institute for Survey Research
