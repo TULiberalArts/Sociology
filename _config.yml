@@ -48,10 +48,12 @@ social:
   slack:
 
 # University & College Information
-university: Temple University
-university.url: https://temple.edu/
-college: College of Liberal Arts
-college.url: https://liberalarts.temple.edu/
+university:
+  name: Temple University
+  url: https://temple.edu/
+college: 
+  name: College of Liberal Arts
+  url: https://liberalarts.temple.edu/
 
 # Google Analytics
 google_analytics: UA-69082166-1
