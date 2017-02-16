@@ -6,20 +6,17 @@ published: true
 ---
 ## Sociology Internship Seminar
  
-If you have questions about the internship program, please send them to [Dr. Dustin Kidd](mailto:dkidd@temple.edu) (dkidd@temple.edu).
- 
-The sociology internship program provides a learning experience that unites the core concepts of sociology with professional organizational settings and the community as a whole, while also guiding students as they transition into their own professional lives. Students who participate in the Sociology Internship Seminar are expected to serve an average of 10 hours per week in a local internship placement.  In addition, students attend class seminar meetings and perform weekly assignments.  The course schedule lists the class meeting day and time.  Students must be available during this time. Once you are accepted to the program, you still need to enroll yourself.
- 
-To participate in the Sociology Internship Seminar, students must complete the application below. 
+The sociology internship program provides a learning experience that unites the core concepts of sociology with professional organizational settings and the community as a whole, while also guiding students as they transition into their own professional lives. Students who participate in the Sociology Internship Seminar are expected to serve an average of 10 hours per week in a local internship placement.  In addition, students attend class seminar meetings and perform weekly assignments.  The course schedule lists the class meeting day and time.  Students must be available during this time. Once you are accepted to the program, you still need to enroll yourself. 
  
 Students may find their own internship placement or request placement assistance from the internship director. The department can only assist with placement by making recommendations using a database of possible internships.  The responsibility for obtaining placement rests solely with the student. Any student who is unable to obtain a placement will not be able to participate in the Sociology Internship Seminar.  The deadline for obtaining an internship is three weeks before the first day of the semester. 
  
 Note that most organizations have formal application procedures that may require submission of a cover letter, resume, application or writing sample, as well as an interview.  Students who obtain their own placement should communicate with the internship director to ensure that the internship fits the goals of the program.
+
+If you have questions about the internship program, please send them to [Dr. Dustin Kidd](mailto:dkidd@temple.edu) (dkidd@temple.edu). To participate in the Sociology Internship Seminar, students must complete the application below.
  
 ### Sample Placement Sites
 
 - [Adelphi Research Group](http://www.adelphiresearch.com/)
-- AVID
 - [Campaign for Working Families](http://www.cwfphilly.org/)
 - [Center City Crime Victims Services](http://www.cccvs.org/)
 - [Equality PA](http://equalitypa.org/)
@@ -34,7 +31,7 @@ Note that most organizations have formal application procedures that may require
 - [Spiral Q Puppet Theater](http://spiralq.org/)
 - [Welcoming Center for New Pennsylvanians](http://www.welcomingcenter.org/)
  
-** [Download the internship application](http://www.cla.temple.edu/sociology/internship/documents/SociologyInternshipApplication.docx)
+[Download the internship application](http://www.cla.temple.edu/sociology/internship/documents/SociologyInternshipApplication.docx)
 
 ## Sociology Undergraduate Majors and Minors Association ([SUMMA](https://temple.collegiatelink.net/organization/SUMMAatTemple/ "SUMMA"))
  
