@@ -59,9 +59,9 @@ college:
 google_analytics: UA-69082166-1
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
-events-feed: # https://liberalarts.temple.edu/events/program-slug/csv
-news-feed: # https://liberalarts.temple.edu/news/program-slug/csv
-faculty-feed: # https://liberalarts.temple.edu/profiles/program-slug/csv
+events-feed: https://liberalarts.temple.edu/events/sociology/csv
+news-feed: https://liberalarts.temple.edu/news/sociology/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/sociology/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
