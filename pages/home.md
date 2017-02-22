@@ -13,6 +13,6 @@ For further information regarding sociology requirements and to make an appointm
 
 <div class="row">
 <div class="col m12 l4">{% include cards/card2-image.html title="Design Your Program" content="Tailor your coursework to fit your specific interests and career path. Sociology majors can choose to specialize in one of the world's most pressing public or social issues." image="assets/img_gs_rome.png"  button-link="undergraduate/" button-text="Learn More" %}</div>
-<div class="col m12 l4">{% include cards/card2-image.html title="Learn from Top Faculty" content="Our highly accomplished professors have received accolades for both their research and award-winning teaching." image="assets/img_gs_languages.png" button-link="Faculty/" button-text="Learn More" %}</div>
+<div class="col m12 l4">{% include cards/card2-image.html title="Learn from Top Faculty" content="Our highly accomplished professors have received accolades for both their research and award-winning teaching." image="assets/img_gs_languages.png" button-link="faculty/" button-text="Learn More" %}</div>
 <div class="col m12 l4">{% include cards/card2-image.html title="Enhance Your Career" content="We offer a series of research methods courses — both quantitative and qualitative — that will equip you with the hard analytical skills that employers desire." image="assets/img_gs_globalecon.png"  button-link="next-stops/" button-text="Learn More" %}</div>
 </div>
