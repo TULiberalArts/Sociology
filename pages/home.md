@@ -10,3 +10,27 @@ Sociology is the scientific study of social behaviors, structures and institutio
 As we look for answers, we teach our students the skills necessary to become independent thinkers and leaders in the global and urban 21st century.
 
 For further information regarding sociology requirements and to make an appointment with a sociology advisor, contact the undergraduate coordinator at [215-204-1494](tel:2152041494)
+
+CARD 1
+
+Design Your Program
+
+Tailor your coursework to fit your specific interests and career path. Sociology majors can choose to specialize in one of the world's most pressing public or social issues.
+
+<!-- link to Undergraduate page -->
+
+CARD 2
+
+Learn from Top Faculty
+
+Our highly accomplished professors have received accolades for both their research and award-winning teaching.
+
+<!-- link to Faculty page -->
+
+CARD 3
+
+Enhance Your Career
+
+We offer a series of research methods courses — both quantitative and qualitative — that will equip you with the hard analytical skills that employers desire.
+
+<!-- link to Next Stops page -->
