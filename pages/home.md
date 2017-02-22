@@ -16,30 +16,3 @@ For further information regarding sociology requirements and to make an appointm
 <div class="col m12 l4">{% include cards/card2-image.html title="Learn from Top Faculty" content="Our highly accomplished professors have received accolades for both their research and award-winning teaching." image="assets/img_gs_languages.png" button-link="Faculty/" button-text="Learn More" %}</div>
 <div class="col m12 l4">{% include cards/card2-image.html title="Enhance Your Career" content="We offer a series of research methods courses — both quantitative and qualitative — that will equip you with the hard analytical skills that employers desire." image="assets/img_gs_globalecon.png"  button-link="next-stops/" button-text="Learn More" %}</div>
 </div>
-
-
-
-
-CARD 1
-
-Design Your Program
-
-Tailor your coursework to fit your specific interests and career path. Sociology majors can choose to specialize in one of the world's most pressing public or social issues.
-
-<!-- link to Undergraduate page -->
-
-CARD 2
-
-Learn from Top Faculty
-
-Our highly accomplished professors have received accolades for both their research and award-winning teaching.
-
-<!-- link to Faculty page -->
-
-CARD 3
-
-Enhance Your Career
-
-We offer a series of research methods courses — both quantitative and qualitative — that will equip you with the hard analytical skills that employers desire.
-
-<!-- link to Next Stops page -->
