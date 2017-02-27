@@ -10,7 +10,7 @@ Sociology is the scientific study of social behaviors, structures and institutio
 
 As we look for answers, we teach our students the skills necessary to become independent thinkers and leaders in the global and urban 21st century.
 
-Temple sociology offers you the chance to acquire the skills you need to navigate these challenging times. We seek undergraduates willing to be rigorously trained in theories and methods of social analysis, to be equipped for success in fields like business, education, law, community organizing, and for those who enroll in our sociology of health track, a wide range of health professions. We also seek highly motivated students for our masters and doctoral programs.
+Temple sociology offers you the chance to acquire the skills you need to navigate these challenging times. We seek undergraduates willing to be rigorously trained in theories and methods of social analysis, to be equipped for success in fields like business, education, law, community organizing, and for those who enroll in our sociology of health track, a wide range of health professions. We also seek highly motivated students for our master's and doctoral programs.
 
 For further information regarding sociology requirements and to make an appointment with a sociology advisor, contact the undergraduate coordinator at [215-204-1494](tel:2152041494)
 <br />
