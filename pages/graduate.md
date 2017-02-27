@@ -20,7 +20,7 @@ The main areas of graduate research are race & ethnicity, gender & sexuality, ur
 
 ## Admissions Process
 
-**Application Deadline**
+**Application Deadline**<br />
 December 15 for PhD applicants; March 1 for MA applicants. Applications are evaluated after the deadline.
  
 **Letters of Reference**
