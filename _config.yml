@@ -25,11 +25,11 @@ address:
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social:
-  # Facebook - https://www.facebook.com/groups/templesoc/
+  # Facebook - https://www.facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
-  facebook: https://www.facebook.com/groups/templesoc/
-  # Twitter - https://twitter.com/TempleSoc
-  twitter: https://twitter.com/TempleSoc
+  facebook: groups/templesoc/
+  # Twitter - https://twitter.com/USERNAME
+  twitter: TempleSoc
   # Instagram - https://www.instagram.com/USERNAME
   # instagram: TULiberalArts
   # Snapchat - USERNAME
@@ -42,7 +42,7 @@ social:
   vimeo:
   # YouTube - Paste the FULL URL below
   youtube:
-  # LinkedIn - https://www.linkedin.com/in/templesociology/
+  # LinkedIn - Paste the FULL URL below
   linkedin: https://www.linkedin.com/in/templesociology/
   # Slack - Paste the FULL URL below
   slack:
