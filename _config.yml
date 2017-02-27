@@ -15,23 +15,23 @@ keywords: highered, college, university, philadelphia, Temple, Sociology
 # Address
 address:
   building: Gladfelter Hall
-  room: 713
+  room: Room 713
   street: 1115 Polett Walk
   city: Phialdelphia, PA 19122
   email: sociology@temple.edu
-  phone: 2152047760
+  phone: 215-204-7760
 
 # Social Media
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social:
-  # Facebook - https://www.facebook.com/groups/templesoc/
+  Facebook - https://www.facebook.com/groups/templesoc/
   # if your page does not have a custom URL, create one!
-  facebook: TempleLiberalArts
+  facebook: TempleSoc
   # Twitter - https://twitter.com/TempleSoc
   twitter: TempleSoc
   # Instagram - https://www.instagram.com/USERNAME
-  instagram: TULiberalArts
+  # instagram: TULiberalArts
   # Snapchat - USERNAME
   snapchat:
   # GitHub - https://github.com/USERNAME or https://github.com/USERNAME/REPO
@@ -42,8 +42,8 @@ social:
   vimeo:
   # YouTube - Paste the FULL URL below
   youtube:
-  # LinkedIn - Paste the FULL URL below
-  linkedin:
+  LinkedIn - https://www.linkedin.com/in/templesociology/
+  linkedin: Temple Sociology
   # Slack - Paste the FULL URL below
   slack:
 
