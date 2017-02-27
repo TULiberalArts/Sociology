@@ -7,7 +7,7 @@ published: true
 <div class="row-widest red" id="welcome">
 <div class="content">
     <h1 class="">Research. Teaching. Social Change.</h1>
-    <p class="">Sociology is the scientific study of social behaviors, structures and institutions. Why do societies differ so much across time and around the world? Why are some social problems so persistent? Why do individuals with similar skills and talents have such different opportunities in life? Many disciplines ask thesequestions , but sociology answers them with scientific methods and sophisticated theories, all with a focus on social change and improving public policy.</p>
+    <p class="">Sociology is the scientific study of social behaviors, structures and institutions. Why do societies differ so much across time and around the world? Why are some social problems so persistent? Why do individuals with similar skills and talents have such different opportunities in life? Many disciplines ask these questions, but sociology answers them with scientific methods and sophisticated theories, all with a focus on social change and improving public policy.</p>
 </div>
 </div>
 
