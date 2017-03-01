@@ -52,3 +52,7 @@ As sociology students, we strive to bring unity by using our sociological imagin
 We are especially committed to increasing the representation of those populations that have been historically excluded from participation in U.S. higher education. We work to pinpoint and promote practices and structures that aid in the development of diverse and inclusive spaces. We especially encourage individuals from underrepresented groups to join our organization and strive to collaborate with other organizations who present dedication to diversity.
  
 The inclusion of underrepresented groups in SUMMA is important: (1) to address and understand systematic inequalities facing American institutions and society, (2) to facilitate a new generation of ideas and leaders within the discipline, and (3) to cultivate civil discourse among diverse parties. We are committed to provide the support necessary for the success of all members of SUMMA.
+
+## Temple Sociology Graduate Student Association
+
+The [Temple Sociology Graduate Student Association](https://sites.google.com/a/temple.edu/tusociologygsa/) is the official organization for master's and doctoral students studying sociology at Temple University. They provide professional development workshops, social opportunities, and graduate student advocacy.
