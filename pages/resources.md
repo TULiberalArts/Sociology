@@ -21,7 +21,7 @@ If you have questions about the internship program, please send them to [Dr. Dus
 - [Center City Crime Victims Services](http://www.cccvs.org/)
 - [Equality PA](http://equalitypa.org/)
 - [Franklin's Paine Skatepark Fund](http://www.franklinspaine.com/)
-- [Jumpstart](http://www.jstart.org/site/PageServer)
+- [Jumpstart](http://www.jstart.org/)
 - [Nationalities Service Center](http://www.nationalitiesservice.org/)
 - [Philadelphia VIP](http://www.phillyvip.org/)
 - [Philadelphia Workers Association](https://www.facebook.com/groups/433120303469144/#_=_)
