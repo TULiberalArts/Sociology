@@ -4,6 +4,46 @@ permalink: /resources/
 layout: page
 published: true
 ---
+
+Chair:
+
+Kimberly Goyette 
+737 Gladfelter Hall 
+[(215) 204-0134](tel:2152040134)
+[kgoyette@temple.edu](mailto:kgoyette@temple.edu)
+
+Undergraduate Chair:
+
+Michelle Byng
+761 Gladfelter Hall
+[(215) 204-7980](tel:2152047980 )
+[mbyng@temple.edu](mailto:mbyng@temple.edu)
+
+Graduate Chair:
+
+Dustin Kidd 
+762 Gladfelter Hall  
+[dkidd@temple.edu](mailto:dkidd@temple.edu)
+
+Administrator:
+
+Jessica Brennan
+708 Gladfelter Hall
+[(215) 204-7577](tel:2152047577) 
+[tua11422@temple.edu](mailto:tua11422@temple.edu)
+
+Coordinator:
+
+Pamela Smallwood
+713 Gladfeter Hall
+[(215) 204-7750](tel:2152047750)
+[poppy@temple.edu](mailto:poppy@temple.edu)
+
+Catherine Staples
+713 Gladfelter Hall
+[(215) 204-1494](tel:2152041494)
+[cstaples@temple.edu](mailto:cstaples@temple.edu)
+
 ## Sociology Internship Seminar
  
 The sociology internship program provides a learning experience that unites the core concepts of sociology with professional organizational settings and the community as a whole, while also guiding students as they transition into their own professional lives. Students who participate in the Sociology Internship Seminar are expected to serve an average of 10 hours per week in a local internship placement.  In addition, students attend class seminar meetings and perform weekly assignments.  The course schedule lists the class meeting day and time.  Students must be available during this time. Once you are accepted to the program, you still need to enroll yourself. 
