@@ -2,20 +2,12 @@
 title: Home
 permalink: /
 layout: home
-feature: false
-feature-title: 
-feature-body: 
-feature-image: 
+feature: true
+feature-title: Research. Teaching. Social Change.
+feature-body: Sociology is the scientific study of social behaviors, structures and institutions. Why do societies differ so much across time and around the world? Why are some social problems so persistent? Why do individuals with similar skills and talents have such different opportunities in life? Many disciplines ask these questions, but sociology answers them with scientific methods and sophisticated theories, all with a focus on social change and improving public policy
+feature-image: media/hero_bg.png
 published: true
 ---
-<div class="row-widest red" id="welcome">
-<div class="content">
-    <h1 class="">Research. Teaching. Social Change.</h1>
-    <p class="">Sociology is the scientific study of social behaviors, structures and institutions. Why do societies differ so much across time and around the world? Why are some social problems so persistent? Why do individuals with similar skills and talents have such different opportunities in life? Many disciplines ask these questions, but sociology answers them with scientific methods and sophisticated theories, all with a focus on social change and improving public policy.</p>
-</div>
-</div>
-
-
 
 Temple sociology offers you the chance to acquire the skills you need to navigate these challenging times. We seek undergraduates willing to be rigorously trained in theories and methods of social analysis, to be equipped for success in fields like business, education, law, community organizing, and for those who enroll in our sociology of health track, a wide range of health professions. We also seek highly motivated students for our master's and doctoral programs.
 
