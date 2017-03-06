@@ -23,6 +23,7 @@ gem "tutheme", :git => "https://github.com/TULiberalArts/TUTheme.git", :branch =
 # For serving the built site
 gem "html-proofer"
 gem "s3_website"
+gem "yaml_command"
 
 group :test do
   gem 'rake'
