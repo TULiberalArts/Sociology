@@ -2,6 +2,10 @@
 title: Home
 permalink: /
 layout: home
+feature: false
+feature-title: 
+feature-body: 
+feature-image: 
 published: true
 ---
 <div class="row-widest red" id="welcome">
