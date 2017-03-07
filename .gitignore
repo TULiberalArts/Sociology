@@ -4,3 +4,7 @@ _site
 Gemfile.lock
 .bundle/
 vendor/
+*.patch
+_data/events.csv
+_data/profiles.csv
+_data/news.csv
