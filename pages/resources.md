@@ -5,6 +5,8 @@ layout: page
 published: true
 ---
 
+## Contacts
+
 **Chair:**
 
 Kimberly Goyette<br />
@@ -22,7 +24,7 @@ Michelle Byng<br />
 **Graduate Chair:**
 
 Dustin Kidd<br />
-762 Gladfelter Hall<br /> 
+762 Gladfelter Hall<br />
 [dkidd@temple.edu](mailto:dkidd@temple.edu)
 
 **Administrator:**
