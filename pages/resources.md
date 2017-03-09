@@ -4,7 +4,6 @@ permalink: /resources/
 layout: page
 published: true
 ---
-
 ## Contacts
 
 **Chair:**
