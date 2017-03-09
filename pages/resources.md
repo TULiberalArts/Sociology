@@ -5,43 +5,43 @@ layout: page
 published: true
 ---
 
-Chair:
+**Chair:**
 
-Kimberly Goyette 
-737 Gladfelter Hall 
-[(215) 204-0134](tel:2152040134)
+Kimberly Goyette<br />
+737 Gladfelter Hall<br />
+[(215) 204-0134](tel:2152040134)<br />
 [kgoyette@temple.edu](mailto:kgoyette@temple.edu)
 
-Undergraduate Chair:
+**Undergraduate Chair:**
 
-Michelle Byng
-761 Gladfelter Hall
-[(215) 204-7980](tel:2152047980 )
+Michelle Byng<br />
+761 Gladfelter Hall<br />
+[(215) 204-7980](tel:2152047980 )<br />
 [mbyng@temple.edu](mailto:mbyng@temple.edu)
 
-Graduate Chair:
+**Graduate Chair:**
 
-Dustin Kidd 
-762 Gladfelter Hall  
+Dustin Kidd<br />
+762 Gladfelter Hall<br /> 
 [dkidd@temple.edu](mailto:dkidd@temple.edu)
 
-Administrator:
+**Administrator:**
 
-Jessica Brennan
-708 Gladfelter Hall
-[(215) 204-7577](tel:2152047577) 
+Jessica Brennan<br />
+708 Gladfelter Hall<br />
+[(215) 204-7577](tel:2152047577)<br />
 [tua11422@temple.edu](mailto:tua11422@temple.edu)
 
-Coordinator:
+**Coordinators:**
 
-Pamela Smallwood
-713 Gladfeter Hall
-[(215) 204-7750](tel:2152047750)
+Pamela Smallwood<br />
+713 Gladfeter Hall<br />
+[(215) 204-7750](tel:2152047750)<br />
 [poppy@temple.edu](mailto:poppy@temple.edu)
 
-Catherine Staples
-713 Gladfelter Hall
-[(215) 204-1494](tel:2152041494)
+Catherine Staples<br />
+713 Gladfelter Hall<br />
+[(215) 204-1494](tel:2152041494)<br />
 [cstaples@temple.edu](mailto:cstaples@temple.edu)
 
 ## Sociology Internship Seminar
