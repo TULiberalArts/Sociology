@@ -29,3 +29,10 @@ Recently, our alumni have secured positions with the following employers:
  - Digital media coordinator at Love Beets
  - Therapeutic staff support at Foundations Behavioral Health
  - Teen education coordinator at Kingsbridge Heights Community Center
+ - Data Manager at Clarifi
+ - Assistant Prosecutor at the Hudson County Prosecutor's Office
+ - Program Associate at Education Communities for Parenting
+ - Research Analyst at the Philadelphia Workforce Investment Board
+ - Project Manager at Sunshine Holdings
+ - Associate at Towers Perrin
+
