@@ -52,7 +52,7 @@ Students may find their own internship placement or request placement assistance
  
 Note that most organizations have formal application procedures that may require submission of a cover letter, resume, application or writing sample, as well as an interview.  Students who obtain their own placement should communicate with the internship director to ensure that the internship fits the goals of the program.
 
-If you have questions about the internship program, please send them to [Dr. Dustin Kidd](mailto:dkidd@temple.edu) (dkidd@temple.edu). To participate in the Sociology Internship Seminar, students must complete the [application]((http://www.cla.temple.edu/sociology/internship/documents/SociologyInternshipApplication.docx)).
+If you have questions about the internship program, please send them to Dustin Kidd ([dkidd@temple.edu](mailto:dkidd@temple.edu)). To participate in the Sociology Internship Seminar, students must complete the [application]((http://www.cla.temple.edu/sociology/internship/documents/SociologyInternshipApplication.docx)).
  
 ### Sample Placement Sites
 
