@@ -2,7 +2,7 @@
 title: Research
 permalink: /research/
 layout: page
-published: true
+published: false
 ---
 ## Center for Vietnamese Philosophy, Culture, and Society
 
