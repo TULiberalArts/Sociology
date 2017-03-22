@@ -55,10 +55,10 @@ college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
 
-# Google Analytics
-google_analytics: UA-69082166-1
+# Google Tag Manager OR Google Analytics
+google_analytics: 
 
-# Google Tag Manager
+
 google_tag_manager: GTM-58ZL5B
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
