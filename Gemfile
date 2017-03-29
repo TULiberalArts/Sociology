@@ -27,7 +27,6 @@ gem "yaml_command"
 
 group :test do
   gem 'rake'
-  gem 'html-proofer'
 end
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -39,4 +38,3 @@ end
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
 gem "jekyll-redirect-from"
-
