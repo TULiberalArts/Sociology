@@ -22,4 +22,5 @@ Our program allows students to specialize in a wide range of areas, all of which
  - [Minor in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology/)
  - [Minor in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology-health/)
  - [Certificate in Health Research](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/certificate-health-research/)
- - 4+1 Program: BA in Sociology + MA in Education
+ - [4+1 Program: BA in Sociology + M.Ed. in Adult and Organizational Development](http://education.temple.edu/aod/sociology-ba-adult-organizational-development-med)
+ - [4+1 Program: BA in Sociology + M.Ed. in Urban Education](http://education.temple.edu/urbaned/accelerated-program-dual-degree-41-sociology-ba-and-urban-education-med)
