@@ -7,14 +7,12 @@ published: true
 
 Our graduate programs are devoted to the training of research scholars and educators in the discipline. We provide advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity and urban sociology.
 
-We students to participate in seminars in other disciplines, including: anthropology, criminal justice, geography and urban studies, history, political science, psychology, urban education and women’s studies.
-
 ## What We Offer
 
 The Department of Sociology offers two distinct graduate programs of study:
 
 - The [master's program](http://bulletin.temple.edu/graduate/scd/cla/sociology-ma/) provides advanced training in sociological theory, statistics and research methods.
-- The [doctoral program](http://bulletin.temple.edu/graduate/scd/cla/sociology-phd/) concentrates on three main subfields of sociology to prepare students for research and teaching in academic settings and for advanced work in applied research settings. The program allows students some flexibility in developing additional specialty areas.
+- The [doctoral program](http://bulletin.temple.edu/graduate/scd/cla/sociology-phd/) concentrates on a variety of subfields of sociology to prepare students for research and teaching in academic settings and for advanced work in applied research settings. The program allows students some flexibility in developing additional specialty areas.
 
 The main areas of graduate research are race & ethnicity, gender & sexuality, urban sociology, medical sociology, and globalization & immigration.
 
@@ -56,7 +54,7 @@ The Statement of Goals should be approximately 500-1,000 words and should includ
 - You may also send the statement of goals by email to [socadmis@temple.edu](mailto:socadmis@temple.edu).
  
 **Standardized Test Scores**<br />
-The GRE is required. GRE scores are evaluated competitively. Although there is no offical minimum, we do not suggest applying unless your combined verbal and quantitative scores are above 300.
+The GRE is required. GRE scores are evaluated competitively. Although there is no official minimum, we do not suggest applying unless your combined verbal and quantitative scores are above 300.
 
 TOEFL, IELTS, or PTE academic scores are required (just one of the above) from
 Individuals not born on American soil who were educated at an institution outside the United States, and U.S. citizens who earned a degree abroad from an institution where the language of instruction was other than English.
@@ -126,7 +124,7 @@ You can petition for transfer after your enrollment begins. It is not part of th
 
 **My GRE scores are old. Can I still use them?**
 
-Your scores must be from the past five years, using the application deadline as the marker.If your scores will be more than five years old as of the appication deadline, you need to re-take the GREs.
+Your scores must be from the past five years, using the application deadline as the marker.If your scores will be more than five years old as of the application deadline, you need to re-take the GREs.
 
 **What is the minimum GRE score for admission?**
 
@@ -148,6 +146,6 @@ Yes. You can take up to 3 courses prior to being admitted to the program. You wi
 
 PhD applicants: Applications are reviewed in January and early decisions are made in February. 
 
-Initially, we will make admissions offers only to a small handful of students based on the number of funded positions we have. We will also reject applicants who are not admissable. Those decisions can be seen online. Students who do not receive an offer, but are not rejected, are on a waitlist for funded positions and will be contacted if and when a position is available. It can sometimes take until mid-April before we finalize the PhD cohort. Waitlisted students will be offered unfunded enrollment in the MA program.
+Initially, we will make admissions offers only to a small handful of students based on the number of funded positions we have. We will also reject applicants who are not admissible. Those decisions can be seen online. Students who do not receive an offer, but are not rejected, are on a waitlist for funded positions and will be contacted if and when a position is available. It can sometimes take until mid-April before we finalize the PhD cohort. Waitlisted students will be offered unfunded enrollment in the MA program.
  
 MA applicants: Applications are reviewed in March and decisions are made by April 1.
