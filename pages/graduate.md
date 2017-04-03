@@ -124,7 +124,7 @@ You can petition for transfer after your enrollment begins. It is not part of th
 
 **My GRE scores are old. Can I still use them?**
 
-Your scores must be from the past five years, using the application deadline as the marker.If your scores will be more than five years old as of the application deadline, you need to re-take the GREs.
+Your scores must be from the past five years, using the application deadline as the marker. If your scores will be more than five years old as of the application deadline, you need to re-take the GREs.
 
 **What is the minimum GRE score for admission?**
 
