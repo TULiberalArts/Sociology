@@ -9,10 +9,11 @@ Our graduate programs are devoted to the training of research scholars and educa
 
 ## What We Offer
 
-The Department of Sociology offers two distinct graduate programs of study:
+The Department of Sociology offers three graduate programs:
 
-- The [master's program](http://bulletin.temple.edu/graduate/scd/cla/sociology-ma/) provides advanced training in sociological theory, statistics and research methods.
-- The [doctoral program](http://bulletin.temple.edu/graduate/scd/cla/sociology-phd/) concentrates on a variety of subfields of sociology to prepare students for research and teaching in academic settings and for advanced work in applied research settings. The program allows students some flexibility in developing additional specialty areas.
+- The [Master of Arts in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-ma/) provides advanced training in sociological theory, statistics and research methods. Students prepare for research careers, social services careers, and PhD programs.
+- The [Professional Science Master’s in Applied Sociology](http://bulletin.temple.edu/graduate/scd/cla/applied-sociology-psm/) provides advanced training in social research methods, including research design, research ethics, quantitative research, and qualitative research. 
+- The [PhD in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-phd/) concentrates on a variety of subfields of sociology to prepare students for research and teaching in academic settings and for advanced work in applied research settings. The program allows students some flexibility in developing additional specialty areas. The main areas of doctoral research are race & ethnicity, gender & sexuality, urban sociology, medical sociology, globalization, and immigration.
 
 The main areas of graduate research are race & ethnicity, gender & sexuality, urban sociology, medical sociology, and globalization & immigration.
 
