@@ -1,5 +1,5 @@
 ---
-title: Profession Science Masters in Applied Psychology
+title: PSM in Applied Psychology
 permalink: /psm/
 layout: page
 published: true
