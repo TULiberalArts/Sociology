@@ -4,7 +4,7 @@ permalink: /psm/
 layout: page
 published: true
 ---
-## Learn the analytical tools you need to revolutionize your career and transform your organization. 
+### Learn the analytical tools you need to revolutionize your career and transform your organization.
 
 Our [Professional Science Master’s in Applied Sociology](http://bulletin.temple.edu/graduate/scd/cla/applied-sociology-psm/) is ideal program for professionals working in government, education, health, criminal justice, and nonprofit or organizational leadership.
 
