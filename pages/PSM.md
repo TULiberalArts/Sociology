@@ -1,5 +1,5 @@
 ---
-title: PSM in Applied Psychology
+title: PSM in Applied Sociology
 permalink: /psm/
 layout: page
 published: true
