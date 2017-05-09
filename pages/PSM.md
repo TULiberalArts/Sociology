@@ -10,8 +10,8 @@ Our [Professional Science Master’s in Applied Sociology](http://bulletin.templ
 
 Our program is designed as a methods-focused master’s degree. There are no required courses in theory or topical fields, although those topics may be taken as electives. Students may take methods and career-oriented courses around the university, although the required classes are housed in sociology.
 
-**[Apply Now](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)**
-**Deadline: July 15**
+**[Apply Now](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)**<br />
+**Fall Deadline: July 15**
 
 **Hone Your Research Expertise:**
 Required courses will train you in statistics, interviews, focus groups and ethnography. Electives include evaluation research, Geographic Information Systems, digital scholarship and advanced statistics.
