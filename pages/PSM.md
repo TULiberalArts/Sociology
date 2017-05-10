@@ -2,7 +2,7 @@
 title: PSM in Applied Sociology
 permalink: /psm/
 layout: page
-sidebar: true
+sidebar: false
 sidebar-content: form
 published: true
 ---
