@@ -1,6 +1,6 @@
 ---
 title: Graduate
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: ma program, phd program, temple, sociology
 permalink: /graduate/
 layout: page
 published: true
