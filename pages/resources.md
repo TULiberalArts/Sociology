@@ -1,5 +1,6 @@
 ---
 title: Resources
+meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
 published: true
@@ -78,11 +79,8 @@ SUMMA is the official undergraduate association for sociology majors and minors.
 ### Our Mission
 
 1. Take our sociological imaginations outside of the classroom.
-
 2. Organize academic and social events for undergraduate students who are majors and minors in sociology.
-
 3. Facilitate greater connectivity between students and the sociology department at Temple University.
- 
 4. Recruit & train volunteers for the Sociology Ambassadors Program.
  
 ### Statement of Inclusion
