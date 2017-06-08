@@ -1,5 +1,6 @@
 ---
 title: PSM in Applied Sociology
+meta-keywords: 3 or 4 unique for this page
 permalink: /psm/
 layout: page-landing
 published: true
