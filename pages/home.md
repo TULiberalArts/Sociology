@@ -11,6 +11,8 @@ feature-image: media/hero_bg.png
 published: true
 ---
 
+**_We are saddened by the passing of our beloved professor, David Allen.  He passed away June 8, 2017.  He will be greatly missed by his students, colleagues, and friends at Temple University._**
+
 Temple sociology offers you the chance to acquire the skills you need to navigate these challenging times. We seek undergraduates willing to be rigorously trained in theories and methods of social analysis, to be equipped for success in fields like business, education, law, community organizing, and for those who enroll in our sociology of health track, a wide range of health professions. We also seek highly motivated students for our master's and doctoral programs.
 
 For further information regarding sociology requirements and to make an appointment with a sociology advisor, contact the undergraduate coordinator at [215-204-1494](tel:2152041494).
