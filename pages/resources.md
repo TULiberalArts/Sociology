@@ -1,6 +1,6 @@
 ---
 title: Resources
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: sociology, contact, faculty
 permalink: /resources/
 layout: page
 published: true
