@@ -5,7 +5,11 @@ permalink: /undergraduate/
 layout: page
 published: true
 ---
-</div>
+Our bachelor’s program teaches students about the study of human behavior in the context of the groups, organizations, institutions and societies in which it occurs. We offer courses covering a wide range of topics, including: race and racism, sexuality and gender, health and health care, education, urban life, housing, organizations, family, political life, popular culture, immigration, international development and globalization.
+
+A BA in sociology prepares students for many careers and graduate programs and provides a broad sociological perspective and specific research, statistical and analytic skills.
+
+Students who are interested in a career in the health field can pursue a special sociology major focused on health-related coursework.
 <div class="col m12 l4"><br>
   <div class="course-box">
     <b>Contact:</b>
@@ -46,13 +50,6 @@ Catherine Staples<br/>
     </ul>
     </div>
 </div>
-</div>
-
-Our bachelor’s program teaches students about the study of human behavior in the context of the groups, organizations, institutions and societies in which it occurs. We offer courses covering a wide range of topics, including: race and racism, sexuality and gender, health and health care, education, urban life, housing, organizations, family, political life, popular culture, immigration, international development and globalization.
-
-A BA in sociology prepares students for many careers and graduate programs and provides a broad sociological perspective and specific research, statistical and analytic skills.
-
-Students who are interested in a career in the health field can pursue a special sociology major focused on health-related coursework.
 
 ## Flexible Coursework
 
