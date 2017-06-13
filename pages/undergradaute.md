@@ -25,7 +25,6 @@ Michelle Byng<br/>
 761 Gladfelter Hall<br/>
 <a href="tel:2152047980">(215) 204-7980</a><br/>
 <a href="mailto:mbyng@temple.edu">mbyng@temple.edu</a><br/>
-</a></li>
   &nbsp;<br/>
 <b>Administrator:</b><br/>
 Jessica Brennan<br/>
@@ -39,13 +38,11 @@ Pamela Smallwood<br/>
 713 Gladfelter Hall<br/>
 <a href="tel:2152047750">(215) 204-7750</a><br/>
 <a href="mailto:poppy@temple.edu">poppy@temple.edu</a><br/>
-</a></li>
   &nbsp;<br/>
 Catherine Staples<br/>
 713 Gladfelter Hall<br/>
 <a href="tel:2152041494">(215) 204-1494</a><br/>
 <a href="mailto:cstaples@temple.edu">cstaples@temple.edu</a><br/>
-</a></li>
   &nbsp;<br/>
     </ul>
     </div>
