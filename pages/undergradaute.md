@@ -19,26 +19,29 @@ Students who are interested in a career in the health field can pursue a special
 737 Gladfelter Hall<br/>
 <a href="tel:2152040134">(215) 204-0134</a><br/>
 <a href="mailto:kgoyette@temple.edu">kgoyette@temple.edu</a><br/>
-&nbsp;<br/>      
+&nbsp;<br/> 
+
 <b>Undergraduate Chair:</b><br/>
 Michelle Byng<br/>
 761 Gladfelter Hall<br/>
 <a href="tel:2152047980">(215) 204-7980</a><br/>
 <a href="mailto:mbyng@temple.edu">mbyng@temple.edu</a><br/>
   &nbsp;<br/>
+  
 <b>Administrator:</b><br/>
 Jessica Brennan<br/>
 708 Gladfelter Hall<br/>
 <a href="tel:2152047577">(215) 204-7577</a><br/>
 <a href="mailto:tua11422@temple.edu">tua11422@temple.edu</a><br/>
-</a></li>
   &nbsp;<br/>
+  
 <b>Coordinators:</b><br/>
 Pamela Smallwood<br/>
 713 Gladfelter Hall<br/>
 <a href="tel:2152047750">(215) 204-7750</a><br/>
 <a href="mailto:poppy@temple.edu">poppy@temple.edu</a><br/>
   &nbsp;<br/>
+  
 Catherine Staples<br/>
 713 Gladfelter Hall<br/>
 <a href="tel:2152041494">(215) 204-1494</a><br/>
