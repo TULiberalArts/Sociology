@@ -44,7 +44,6 @@ sidebar-content:
       &nbsp;<br/>
       </ul>
       </div>
-
 ---
 Our bachelor’s program teaches students about the study of human behavior in the context of the groups, organizations, institutions and societies in which it occurs. We offer courses covering a wide range of topics, including: race and racism, sexuality and gender, health and health care, education, urban life, housing, organizations, family, political life, popular culture, immigration, international development and globalization.
 
