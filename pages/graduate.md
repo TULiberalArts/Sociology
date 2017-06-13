@@ -4,6 +4,45 @@ meta-keywords: ma program, phd program, temple, sociology
 permalink: /graduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: 
+    <div class="course-box">
+        <b>Contact:</b>
+        <ul>
+        <b>Chair:</b><br/>
+          Kimberly Goyette<br/>
+    737 Gladfelter Hall<br/>
+    <a href="tel:2152040134">(215) 204-0134</a><br/>
+    <a href="mailto:kgoyette@temple.edu">kgoyette@temple.edu</a><br/>
+    &nbsp;<br/> 
+
+    <b>Graduate Chair:</b><br/>
+    Dustin Kidd<br/>
+    762 Gladfelter Hall<br/>
+    <a href="mailto:dkidd@temple.edu">dkidd@temple.edu</a><br/>
+      &nbsp;<br/>
+
+    <b>Administrator:</b><br/>
+    Jessica Brennan<br/>
+    708 Gladfelter Hall<br/>
+    <a href="tel:2152047577">(215) 204-7577</a><br/>
+    <a href="mailto:tua11422@temple.edu">tua11422@temple.edu</a><br/>
+      &nbsp;<br/>
+
+    <b>Coordinators:</b><br/>
+    Pamela Smallwood<br/>
+    713 Gladfelter Hall<br/>
+    <a href="tel:2152047750">(215) 204-7750</a><br/>
+    <a href="mailto:poppy@temple.edu">poppy@temple.edu</a><br/>
+      &nbsp;<br/>
+
+    Catherine Staples<br/>
+    713 Gladfelter Hall<br/>
+    <a href="tel:2152041494">(215) 204-1494</a><br/>
+    <a href="mailto:cstaples@temple.edu">cstaples@temple.edu</a><br/>
+      &nbsp;<br/>
+      </ul>
+      </div>
 ---
 
 Our graduate programs are devoted to the training of research scholars and educators in the discipline. We provide advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity and urban sociology.
