@@ -12,6 +12,49 @@ A BA in sociology prepares students for many careers and graduate programs and p
 
 Students who are interested in a career in the health field can pursue a special sociology major focused on health-related coursework.
 
+</div>
+<div class="col m12 l4"><br>
+  <div class="course-box">
+    <b>Contact:</b>
+    <ul>
+    <b>Chair:</b><br/>
+      Kimberly Goyette<br/>
+737 Gladfelter Hall<br/>
+<a href="tel:2152040134">(215) 204-0134</a><br/>
+<a href="mailto:kgoyette@temple.edu">kgoyette@temple.edu</a><br/>
+&nbsp;<br/>      
+<b>Undergraduate Chair:</b><br/>
+Michelle Byng<br/>
+761 Gladfelter Hall<br/>
+<a href="tel:2152047980">(215) 204-7980</a><br/>
+<a href="mailto:mbyng@temple.edu">mbyng@temple.edu</a><br/>
+</a></li>
+  &nbsp;<br/>
+<b>Administrator:</b><br/>
+Jessica Brennan<br/>
+708 Gladfelter Hall<br/>
+<a href="tel:2152047577">(215) 204-7577</a><br/>
+<a href="mailto:tua11422@temple.edu">tua11422@temple.edu</a><br/>
+</a></li>
+  &nbsp;<br/>
+<b>Coordinators:</b><br/>
+Pamela Smallwood<br/>
+713 Gladfelter Hall<br/>
+<a href="tel:2152047750">(215) 204-7750</a><br/>
+<a href="mailto:poppy@temple.edu">poppy@temple.edu</a><br/>
+</a></li>
+  &nbsp;<br/>
+Catherine Staples<br/>
+713 Gladfelter Hall<br/>
+<a href="tel:2152041494">(215) 204-1494</a><br/>
+<a href="mailto:cstaples@temple.edu">cstaples@temple.edu</a><br/>
+</a></li>
+  &nbsp;<br/>
+    </ul>
+    </div>
+</div>
+</div>
+
 ## Flexible Coursework
 
 Our program allows students to specialize in a wide range of areas, all of which are pressing public and social issues: health and medicine, racial and ethnic inequality, globalization and immigration, urban studies, and the  sociology of gender and sexuality. Students tailor their coursework to fit their specific interests and desired career paths.
