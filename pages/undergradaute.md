@@ -5,46 +5,49 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: 
-    <div class="contact-box">
-        <b>Contact:</b>
-        <ul>
-        <b>Chair:</b><br/>
-          Kimberly Goyette<br/>
-    737 Gladfelter Hall<br/>
-    <a href="tel:2152040134">(215) 204-0134</a><br/>
-    <a href="mailto:kgoyette@temple.edu">kgoyette@temple.edu</a><br/>
-    &nbsp;<br/> 
+sidebar-content: > #
+  ### Contact Us
 
-    <b>Undergraduate Chair:</b><br/>
-    Michelle Byng<br/>
-    761 Gladfelter Hall<br/>
-    <a href="tel:2152047980">(215) 204-7980</a><br/>
-    <a href="mailto:mbyng@temple.edu">mbyng@temple.edu</a><br/>
-      &nbsp;<br/>
+  <hr>
 
-    <b>Administrator:</b><br/>
-    Jessica Brennan<br/>
-    708 Gladfelter Hall<br/>
-    <a href="tel:2152047577">(215) 204-7577</a><br/>
-    <a href="mailto:tua11422@temple.edu">tua11422@temple.edu</a><br/>
-      &nbsp;<br/>
+  **Chair:**<br/>
+  Kimberly Goyette<br/>
+  737 Gladfelter Hall<br/>
+  [(215) 204-0134](tel:2152040134) <br/>
+  [kgoyette@temple.edu](mailto:kgoyette@temple.edu) <br/>
 
-    <b>Coordinators:</b><br/>
-    Pamela Smallwood<br/>
-    713 Gladfelter Hall<br/>
-    <a href="tel:2152047750">(215) 204-7750</a><br/>
-    <a href="mailto:poppy@temple.edu">poppy@temple.edu</a><br/>
-      &nbsp;<br/>
+  <hr>
 
-    Catherine Staples<br/>
-    713 Gladfelter Hall<br/>
-    <a href="tel:2152041494">(215) 204-1494</a><br/>
-    <a href="mailto:cstaples@temple.edu">cstaples@temple.edu</a><br/>
-      &nbsp;<br/>
-      </ul>
-      </div>
+  **Undegraduate Chair:**<br/>
+  Michelle Byng<br/>
+  761 Gladfelter Hall<br/>
+  [(215) 204-7980](tel:2152047980)<br/>
+  [mbyng@temple.edu](mailto:mbyng@temple.edu)<br/>
+
+  <hr>
+
+  **Administrator:**<br/>
+  Jessica Brennan<br/>
+  708 Gladfelter Hall<br/>
+  [(215) 204-7577](tel:2152047577)<br/>
+  [tua11422@temple.edu](mailto:tua11422@temple.edu)<br/>
+  
+   <hr>
+
+  **Coordinators:**<br/>
+  Pamela Smallwood<br/>
+  713 Gladfelter Hall<br/>
+  [(215) 204-7750](tel:2152047750)<br/>
+  [poppy@temple.edu](mailto:poppy@temple.edu)<br/>
+  
+  <hr>
+
+  Catherine Staples<br/>
+  713 Gladfelter Hall<br/>
+  [(215) 204-1494](tel:2152041494)<br/>
+  [cstaples@temple.edu](mailto:cstaples@temple.edu)<br/>
 ---
+
 Our bachelor’s program teaches students about the study of human behavior in the context of the groups, organizations, institutions and societies in which it occurs. We offer courses covering a wide range of topics, including: race and racism, sexuality and gender, health and health care, education, urban life, housing, organizations, family, political life, popular culture, immigration, international development and globalization.
 
 A BA in sociology prepares students for many careers and graduate programs and provides a broad sociological perspective and specific research, statistical and analytic skills.
