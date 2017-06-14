@@ -6,7 +6,7 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: 
-    <div class="course-box">
+    <div class="contact-box">
         <b>Contact:</b>
         <ul>
         <b>Chair:</b><br/>
