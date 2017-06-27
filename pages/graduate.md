@@ -39,6 +39,7 @@ sidebar-content: > #
   [(215) 204-7750](tel:2152047750)<br/>
   [poppy@temple.edu](mailto:poppy@temple.edu)<br/>
 
+
   Catherine Staples<br/>
   713 Gladfelter Hall<br/>
   [(215) 204-1494](tel:2152041494)<br/>
