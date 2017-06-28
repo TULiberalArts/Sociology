@@ -6,9 +6,6 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
-
-  <hr>
 
   **Chair:**<br/>
   Kimberly Goyette<br/>
@@ -16,7 +13,7 @@ sidebar-content: > #
   [(215) 204-0134](tel:2152040134) <br/>
   [kgoyette@temple.edu](mailto:kgoyette@temple.edu) <br/>
 
-  <hr>
+  <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
   **Undegraduate Chair:**<br/>
   Michelle Byng<br/>
@@ -24,7 +21,7 @@ sidebar-content: > #
   [(215) 204-7980](tel:2152047980)<br/>
   [mbyng@temple.edu](mailto:mbyng@temple.edu)<br/>
 
-  <hr>
+  <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
   **Administrator:**<br/>
   Jessica Brennan<br/>
@@ -32,7 +29,7 @@ sidebar-content: > #
   [(215) 204-7577](tel:2152047577)<br/>
   [tua11422@temple.edu](mailto:tua11422@temple.edu)<br/>
   
-   <hr>
+  <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
   **Coordinators:**<br/>
   Pamela Smallwood<br/>
