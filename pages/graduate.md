@@ -6,11 +6,11 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  **Chair:**<br/>
-  Kimberly Goyette<br/>
-  737 Gladfelter Hall<br/>
-  [(215) 204-0134](tel:2152040134) <br/>
-  [kgoyette@temple.edu](mailto:kgoyette@temple.edu) <br/>
+  **Chair:**  
+  Kimberly Goyette  
+  737 Gladfelter Hall  
+  [(215) 204-0134](tel:2152040134)  
+  [kgoyette@temple.edu](mailto:kgoyette@temple.edu)  
 
   ___
 
