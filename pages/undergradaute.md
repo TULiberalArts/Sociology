@@ -24,7 +24,7 @@ sidebar-content: > #
    
    **Administrator:**  
    Jessica Brennan  
-   708 Gladfelter Hall 
+   708 Gladfelter Hall   
    [(215) 204-7577](tel:2152047577)  
    [tua11422@temple.edu](mailto:tua11422@temple.edu)  
    
