@@ -6,18 +6,18 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
- **Chair:**  
- Kimberly Goyette  
- 737 Gladfelter Hall  
- [(215) 204-0134](tel:2152040134)  
- [kgoyette@temple.edu](mailto:kgoyette@temple.edu)  
+  **Chair:**  
+  Kimberly Goyette  
+  737 Gladfelter Hall  
+  [(215) 204-0134](tel:2152040134)  
+  [kgoyette@temple.edu](mailto:kgoyette@temple.edu)  
+  
+  ___
  
- ___
- 
- **Graduate Chair:**  
- Dustin Kidd  
- 762 Gladfelter Hall  
- [dkidd@temple.edu](mailto:dkidd@temple.edu)  
+  **Graduate Chair:**  
+  Dustin Kidd  
+  762 Gladfelter Hall  
+  [dkidd@temple.edu](mailto:dkidd@temple.edu)  
 
   ___
 
@@ -26,7 +26,7 @@ sidebar-content: > #
   708 Gladfelter Hall  
   [(215) 204-7577](tel:2152047577)  
   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
-  
+
    ___
 
   **Coordinators:**  
