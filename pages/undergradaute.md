@@ -7,36 +7,34 @@ published: true
 sidebar: true
 sidebar-content: > #
 
-  **Chair:**<br/>
-  Kimberly Goyette<br/>
-  737 Gladfelter Hall<br/>
-  [(215) 204-0134](tel:2152040134) <br/>
-  [kgoyette@temple.edu](mailto:kgoyette@temple.edu) <br/>
+**Chair:**  
+  Kimberly Goyette  
+  737 Gladfelter Hall  
+  [(215) 204-0134](tel:2152040134)  
+  [kgoyette@temple.edu](mailto:kgoyette@temple.edu)
+  ___
+  **Undegraduate Chair:**  
+  Michelle Byng  
+  761 Gladfelter Hall  
+  [(215) 204-7980](tel:2152047980)  
+  [mbyng@temple.edu](mailto:mbyng@temple.edu)  
+  ___
+  **Administrator:**  
+  Jessica Brennan  
+  708 Gladfelter Hall 
+  [(215) 204-7577](tel:2152047577)  
+  [tua11422@temple.edu](mailto:tua11422@temple.edu)  
+  ___
+  **Coordinators:**  
+  Pamela Smallwood  
+  713 Gladfelter Hall  
+  [(215) 204-7750](tel:2152047750)  
+  [poppy@temple.edu](mailto:poppy@temple.edu)  
 
-  <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-  **Undegraduate Chair:**<br/>
-  Michelle Byng<br/>
-  761 Gladfelter Hall<br/>
-  [(215) 204-7980](tel:2152047980)<br/>
-  [mbyng@temple.edu](mailto:mbyng@temple.edu)<br/>
-
-  <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-  **Administrator:**<br/>
-  Jessica Brennan<br/>
-  708 Gladfelter Hall<br/>
-  [(215) 204-7577](tel:2152047577)<br/>
-  [tua11422@temple.edu](mailto:tua11422@temple.edu)<br/>
-  
-  <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-  **Coordinators:**<br/>
-  Pamela Smallwood<br/>
-  713 Gladfelter Hall<br/>
-  [(215) 204-7750](tel:2152047750)<br/>
-  [poppy@temple.edu](mailto:poppy@temple.edu)<br/>
-
+  Catherine Staples  
+  713 Gladfelter Hall  
+  [(215) 204-1494](tel:2152041494) 
+  [cstaples@temple.edu](mailto:cstaples@temple.edu)
 
   Catherine Staples<br/>
   713 Gladfelter Hall<br/>
