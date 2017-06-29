@@ -8,7 +8,7 @@ sidebar: true
 sidebar-content: > #
   ### Contact Us
 
-  <hr>
+  <hr noshade>
 
   **Chair:**<br/>
   Kimberly Goyette<br/>
