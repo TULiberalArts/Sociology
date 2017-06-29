@@ -6,7 +6,6 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-
 **Chair:**  
   Kimberly Goyette  
   737 Gladfelter Hall  
