@@ -12,7 +12,7 @@ sidebar-content: > #
   [(215) 204-0134](tel:2152040134) <br/>
   [kgoyette@temple.edu](mailto:kgoyette@temple.edu) <br/>
 
-  <hr>
+  ___
 
   **Graduate Chair:**  
   Dustin Kidd  
