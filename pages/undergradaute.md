@@ -11,19 +11,25 @@ sidebar-content: > #
     737 Gladfelter Hall  
     [(215) 204-0134](tel:2152040134)  
     [kgoyette@temple.edu](mailto:kgoyette@temple.edu)
+    
     ___
+    
     **Undegraduate Chair:**  
     Michelle Byng  
     761 Gladfelter Hall  
     [(215) 204-7980](tel:2152047980)  
     [mbyng@temple.edu](mailto:mbyng@temple.edu)  
+    
     ___
+    
     **Administrator:**  
     Jessica Brennan  
     708 Gladfelter Hall 
     [(215) 204-7577](tel:2152047577)  
     [tua11422@temple.edu](mailto:tua11422@temple.edu)  
+    
     ___
+    
     **Coordinators:**  
     Pamela Smallwood  
     713 Gladfelter Hall  
