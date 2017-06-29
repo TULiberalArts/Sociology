@@ -6,10 +6,6 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
-
-  <hr noshade>
-
   **Chair:**<br/>
   Kimberly Goyette<br/>
   737 Gladfelter Hall<br/>
@@ -18,32 +14,32 @@ sidebar-content: > #
 
   <hr>
 
-  **Graduate Chair:**<br/>
-  Dustin Kidd<br/>
-  762 Gladfelter Hall<br/>
-  [dkidd@temple.edu](mailto:dkidd@temple.edu) <br/>
+  **Graduate Chair:**  
+  Dustin Kidd  
+  762 Gladfelter Hall  
+  [dkidd@temple.edu](mailto:dkidd@temple.edu)  
 
-  <hr>
+  ___
 
-  **Administrator:**<br/>
-  Jessica Brennan<br/>
-  708 Gladfelter Hall<br/>
-  [(215) 204-7577](tel:2152047577)<br/>
-  [tua11422@temple.edu](mailto:tua11422@temple.edu)<br/>
+  **Administrator:**  
+  Jessica Brennan  
+  708 Gladfelter Hall  
+  [(215) 204-7577](tel:2152047577)  
+  [tua11422@temple.edu](mailto:tua11422@temple.edu)  
   
-   <hr>
+   ___
 
-  **Coordinators:**<br/>
-  Pamela Smallwood<br/>
-  713 Gladfelter Hall<br/>
-  [(215) 204-7750](tel:2152047750)<br/>
-  [poppy@temple.edu](mailto:poppy@temple.edu)<br/>
+  **Coordinators:**  
+  Pamela Smallwood  
+  713 Gladfelter Hall  
+  [(215) 204-7750](tel:2152047750)  
+  [poppy@temple.edu](mailto:poppy@temple.edu)  
 
 
-  Catherine Staples<br/>
-  713 Gladfelter Hall<br/>
-  [(215) 204-1494](tel:2152041494)<br/>
-  [cstaples@temple.edu](mailto:cstaples@temple.edu)<br/>
+  Catherine Staples  
+  713 Gladfelter Hall  
+  [(215) 204-1494](tel:2152041494)  
+  [cstaples@temple.edu](mailto:cstaples@temple.edu)  
 ---
 
 Our graduate programs are devoted to the training of research scholars and educators in the discipline. We provide advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity and urban sociology.
