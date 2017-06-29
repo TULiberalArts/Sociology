@@ -11,7 +11,6 @@ sidebar-content: > #
     737 Gladfelter Hall  
     [(215) 204-0134](tel:2152040134)  
     [kgoyette@temple.edu](mailto:kgoyette@temple.edu)
-    
     ___
     
     **Undegraduate Chair:**  
@@ -19,7 +18,6 @@ sidebar-content: > #
     761 Gladfelter Hall  
     [(215) 204-7980](tel:2152047980)  
     [mbyng@temple.edu](mailto:mbyng@temple.edu)  
-    
     ___
     
     **Administrator:**  
@@ -27,7 +25,6 @@ sidebar-content: > #
     708 Gladfelter Hall 
     [(215) 204-7577](tel:2152047577)  
     [tua11422@temple.edu](mailto:tua11422@temple.edu)  
-    
     ___
     
     **Coordinators:**  
@@ -40,11 +37,6 @@ sidebar-content: > #
     713 Gladfelter Hall  
     [(215) 204-1494](tel:2152041494) 
     [cstaples@temple.edu](mailto:cstaples@temple.edu)
-
-    Catherine Staples<br/>
-    713 Gladfelter Hall<br/>
-    [(215) 204-1494](tel:2152041494)<br/>
-    [cstaples@temple.edu](mailto:cstaples@temple.edu) 
 ---
 
 Our bachelor’s program teaches students about the study of human behavior in the context of the groups, organizations, institutions and societies in which it occurs. We offer courses covering a wide range of topics, including: race and racism, sexuality and gender, health and health care, education, urban life, housing, organizations, family, political life, popular culture, immigration, international development and globalization.
