@@ -1,11 +1,11 @@
 ---
 title: Undergraduate
-meta-keywords: bachelors degree, sociology, coursework
+meta-keywords: 'bachelors degree, sociology, coursework'
 permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Kimberly Goyette  
    737 Gladfelter Hall  
@@ -53,6 +53,8 @@ Students who are interested in a career in the health field can pursue a special
 ## Flexible Coursework
 
 Our program allows students to specialize in a wide range of areas, all of which are pressing public and social issues: health and medicine, racial and ethnic inequality, globalization and immigration, urban studies, and the  sociology of gender and sexuality. Students tailor their coursework to fit their specific interests and desired career paths.
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
 
 ## What We Offer
 
