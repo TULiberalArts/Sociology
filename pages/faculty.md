@@ -1,6 +1,6 @@
 ---
 title: Faculty
 permalink: /faculty/
-layout: faculty
+layout: faculty2
 published: true
 ---
