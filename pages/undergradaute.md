@@ -54,7 +54,7 @@ Students who are interested in a career in the health field can pursue a special
 
 Our program allows students to specialize in a wide range of areas, all of which are pressing public and social issues: health and medicine, racial and ethnic inequality, globalization and immigration, urban studies, and the  sociology of gender and sexuality. Students tailor their coursework to fit their specific interests and desired career paths.
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](https://www.temple.edu/admissions.temple.edu/apply). 
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply). 
 
 ## What We Offer
 
