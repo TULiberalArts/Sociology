@@ -1,9 +1,10 @@
 ---
 title: Graduate
+meta-description: >-
+  
 meta-keywords: 'ma program, phd program, temple, sociology'
 permalink: /graduate/
 layout: page
-published: true
 sidebar: true
 sidebar-content: |
   **Chair:**  
@@ -39,6 +40,7 @@ sidebar-content: |
    713 Gladfelter Hall    
    [(215) 204-1494](tel:2152041494)  
    [cstaples@temple.edu](mailto:cstaples@temple.edu)
+published: true
 ---
 
 Our graduate programs are devoted to the training of research scholars and educators in the discipline. We provide advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity and urban sociology.
@@ -48,7 +50,7 @@ Our graduate programs are devoted to the training of research scholars and educa
 The Department of Sociology offers three graduate programs:
 
 - The [Master of Arts in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-ma/) provides advanced training in sociological theory, statistics and research methods. Students prepare for research careers, social services careers, and PhD programs.
-- The [Professional Science Master’s in Applied Sociology](http://bulletin.temple.edu/graduate/scd/cla/applied-sociology-psm/) provides advanced training in social research methods, including research design, research ethics, quantitative research, and qualitative research. 
+- The [Professional Science Master’s in Applied Sociology](http://bulletin.temple.edu/graduate/scd/cla/applied-sociology-psm/) provides advanced training in social research methods, including research design, research ethics, quantitative research, and qualitative research.
 - The [PhD in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-phd/) concentrates on a variety of subfields of sociology to prepare students for research and teaching in academic settings and for advanced work in applied research settings. The program allows students some flexibility in developing additional specialty areas. The main areas of doctoral research are race & ethnicity, gender & sexuality, urban sociology, medical sociology, globalization, and immigration.
 
 The main areas of graduate research are race & ethnicity, gender & sexuality, urban sociology, medical sociology, and globalization & immigration.
@@ -181,7 +183,7 @@ Yes. You can take up to 3 courses prior to being admitted to the program. You wi
 
 **I applied. When will I hear?**
 
-PhD applicants: Applications are reviewed in January and early decisions are made in February. 
+PhD applicants: Applications are reviewed in January and early decisions are made in February.
 
 Initially, we will make admissions offers only to a small handful of students based on the number of funded positions we have. We will also reject applicants who are not admissible. Those decisions can be seen online. Students who do not receive an offer, but are not rejected, are on a waitlist for funded positions and will be contacted if and when a position is available. It can sometimes take until mid-April before we finalize the PhD cohort. Waitlisted students will be offered unfunded enrollment in the MA program.
  
