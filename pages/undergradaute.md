@@ -1,5 +1,7 @@
 ---
 title: Undergraduate
+meta-description: >-
+  
 meta-keywords: 'bachelors degree, sociology, coursework'
 permalink: /undergraduate/
 layout: page
