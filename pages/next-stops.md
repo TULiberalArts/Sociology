@@ -1,8 +1,6 @@
 ---
 title: Next Stops
-meta-description: >-
-  
-meta-keywords: internships, students, sociology degree
+meta-keywords: 'internships, students, sociology degree'
 permalink: /next-stops/
 layout: page
 published: true
@@ -39,7 +37,7 @@ Recently, our alumni have secured positions with the following employers:
  - Project Manager at Sunshine Holdings
  - Associate at Towers Perrin
  
- ## Sociology Internship Seminar
+## Sociology Internship Seminar
  
 The sociology internship program provides a learning experience that unites the core concepts of sociology with professional organizational settings and the community as a whole, while also guiding students as they transition into their own professional lives. Students who participate in the Sociology Internship Seminar are expected to serve an average of 10 hours per week in a local internship placement. In addition, students attend class seminar meetings and perform weekly assignments. The course schedule lists the class meeting day and time.  Students must be available during this time. Once you are accepted to the program, you still need to enroll yourself.
  
