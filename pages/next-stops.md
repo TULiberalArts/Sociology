@@ -1,8 +1,9 @@
 ---
 title: Next Stops
-meta-keywords: 'internships, students, sociology degree'
 permalink: /next-stops/
 layout: page
+keywords: 'internships, students, sociology degree'
+description: >-
 published: true
 ---
 A sociology degree will prepare you for many careers and graduate programs by providing you with a broad sociological perspective and specific research, statistical and analytical skills.
