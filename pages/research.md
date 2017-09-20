@@ -1,10 +1,9 @@
 ---
 title: Research
-meta-description: >-
-
-meta-keywords: ''
 permalink: /research/
 layout: page
+description: >-
+keywords: ''
 published: false
 ---
 ## Center for Vietnamese Philosophy, Culture, and Society
