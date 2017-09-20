@@ -1,10 +1,10 @@
 ---
 title: PSM in Applied Sociology
-meta-description: >-
-  An ideal program for professionals working in government, education, health, criminal justice, and nonprofit or organizational leadership.
-meta-keywords: masters, applied sociology, professional
 permalink: /psm/
 layout: page-landing
+keywords: 'masters, applied sociology, professional'
+meta-description: >-
+  An ideal program for professionals working in government, education, health, criminal justice, and nonprofit or organizational leadership.
 published: true
 ---
 ### Learn the analytical tools you need to revolutionize your career and transform your organization.
