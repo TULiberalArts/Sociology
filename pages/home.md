@@ -1,11 +1,12 @@
 ---
 title: Home
-meta-description: 100 or so words
-meta-keywords: 'sociology, social change, research'
 permalink: /
 layout: home
+description: >-
+keywords: 'sociology, social change, research'
 feature: true
 feature-title: Research. Teaching. Social Change.
+feature-image: media/hero_bg.png
 feature-body: >-
   Sociology is the scientific study of social behaviors, structures and
   institutions. Why do societies differ so much across time and around the
@@ -14,7 +15,6 @@ feature-body: >-
   disciplines ask these questions, but sociology answers them with scientific
   methods and sophisticated theories, all with a focus on social change and
   improving public policy.
-feature-image: media/hero_bg.png
 published: true
 ---
 
