@@ -1,10 +1,9 @@
 ---
 title: Graduate
-meta-description: >-
-  
-meta-keywords: 'ma program, phd program, temple, sociology'
 permalink: /graduate/
 layout: page
+description: >-
+keywords: 'ma program, phd program, temple, sociology'
 sidebar: true
 sidebar-content: |
   **Chair:**  
