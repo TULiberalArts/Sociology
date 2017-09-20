@@ -1,10 +1,8 @@
 ---
 title: Resources
-meta-description: >-
-
-meta-keywords: ''
-meta-keywords: sociology, contact, faculty
 permalink: /resources/
 layout: page
+description: >-
+keywords: 'sociology, contact, faculty'
 published: false
 ---
