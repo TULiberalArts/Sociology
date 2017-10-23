@@ -13,7 +13,8 @@ install:
 script:
 - "wget -O ./_data/news.csv $(bundle exec yaml get news-feed -F=_config.yml) || :"
 - "wget -O ./_data/events.csv $(bundle exec yaml get events-feed -F=_config.yml) || :"
-- "wget -O ./_data/profiles.csv $(bundle exec yaml get faculty-feed -F=_config.yml) || :"
+- 'wget -O ./_data/profiles.csv $(bundle exec yaml get faculty-feed -F=_config.yml) || :'
+- 'wget -O ./_data/media-mentions.csv $(bundle exec yaml get media-mentions-feed -F=_config.yml) || :'
 - bundle exec jekyll build
 - bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href
   --external_only --only-4xx --http-status-ignore 429
