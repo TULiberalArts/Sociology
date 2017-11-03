@@ -67,8 +67,3 @@ When you are ready to apply, submit your application online at [admissions.templ
 - [4+1 Program: BA in GSWS + MA in Sociology](https://sites.temple.edu/gswssoc/)
 - [4+1 Program: BA in Sociology + M.Ed. in Adult and Organizational Development](http://education.temple.edu/aod/sociology-ba-adult-organizational-development-med)
 - [4+1 Program: BA in Sociology + M.Ed. in Urban Education](http://education.temple.edu/urbaned/accelerated-program-dual-degree-41-sociology-ba-and-urban-education-med)
-
-
-
-
-
