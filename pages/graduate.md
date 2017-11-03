@@ -2,7 +2,6 @@
 title: Graduate
 permalink: /graduate/
 layout: page
-description: >-
 keywords: 'ma program, phd program, temple, sociology'
 sidebar: true
 sidebar-content: |
@@ -51,6 +50,8 @@ The Department of Sociology offers three graduate programs:
 - The [Master of Arts in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-ma/) provides advanced training in sociological theory, statistics and research methods. Students prepare for research careers, social services careers, and PhD programs.
 - The [Professional Science Master’s in Applied Sociology](http://bulletin.temple.edu/graduate/scd/cla/applied-sociology-psm/) provides advanced training in social research methods, including research design, research ethics, quantitative research, and qualitative research.
 - The [PhD in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-phd/) concentrates on a variety of subfields of sociology to prepare students for research and teaching in academic settings and for advanced work in applied research settings. The program allows students some flexibility in developing additional specialty areas. The main areas of doctoral research are race & ethnicity, gender & sexuality, urban sociology, medical sociology, globalization, and immigration.
+- The [Urban Bioethics MA and Sociology MA Dual Degree Program](https://sites.temple.edu/maubmasoc/) provides advanced training in urban bioethics, community engagement, sociological theory, statistics and research methods. Students prepare for research careers, social services careers, public health careers, and PhD programs.
+- The [Urban Bioethics MA and Sociology PhD Dual Degree Program](https://sites.temple.edu/maubphdsoc/) concentrates on public health, and medical sociology to prepare students for research and teaching in academic settings and for advanced work in applied research settings.
 
 The main areas of graduate research are race & ethnicity, gender & sexuality, urban sociology, medical sociology, and globalization & immigration.
 
