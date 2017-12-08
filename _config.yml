@@ -57,6 +57,9 @@ university:
 college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
+program_news: https://liberalarts.temple.edu/news/sociology
+program_events: https://events.temple.edu/department/sociology
+
 
 # Google Tag Manager OR Google Analytics
 google_analytics:
