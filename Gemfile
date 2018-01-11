@@ -12,7 +12,7 @@ ruby RUBY_VERSION
 # This will help ensure the proper Jekyll version is running.
 # Must at least Jekyll 3.3 for theme support
 # Happy Jekylling!
-gem "jekyll", "~> 3.6"
+gem "jekyll", "~> 3.7"
 
 # This is the default theme for new Jekyll sites.
 gem "minima"
