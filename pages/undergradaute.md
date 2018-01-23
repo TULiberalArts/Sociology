@@ -57,15 +57,18 @@ In other words, you will gain more than an insight into the mundane and complex 
 
 ## Academic Offerings
 
-**Bachelors Programs**
+**Bachelors Programs**<br/>
 - [BA in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology/)
 - [BA in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology-health-track/)
-**Minors**
+
+**Minors**<br/>
 - [Minor in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology/)
 - [Minor in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology-health/)
-**Certificate**
+
+**Certificate**<br/>
 - [Certificate in Health Research](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/certificate-health-research/)
-**Dual Degree Bachelor's and Master's Programs**
+
+**Dual Degree Bachelor's and Master's Programs**<br/>
 - [4+1 Program: BA in Sociology + MA in Sociology](https://sites.temple.edu/acceleratedsociology/)
 - [4+1 Program: BA in GSWS + MA in Sociology](https://sites.temple.edu/gswssoc/)
 - [4+1 Program: BA in Sociology + M.Ed. in Adult and Organizational Development](http://education.temple.edu/aod/sociology-ba-adult-organizational-development-med)
