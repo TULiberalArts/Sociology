@@ -41,29 +41,47 @@ sidebar-content: |
    [(215) 204-1494](tel:2152041494)  
    [cstaples@temple.edu](mailto:cstaples@temple.edu)
 ---
+## What is Sociology Anyway?
 
-Our bachelor’s program teaches students about the study of human behavior in the context of the groups, organizations, institutions and societies in which it occurs. We offer courses covering a wide range of topics, including: race and racism, sexuality and gender, health and health care, education, urban life, housing, organizations, family, political life, popular culture, immigration, international development and globalization.
+Sociologists study everything that humans do together from sex to politics…
+- everything humans produce from families to cities…
+- everything that defines the experience of human life from birth to adolescence to adulthood to old age to death…
+- even national and international relations and the conflicts they generate…
+- including social movements and how they lead to social change…
+- as well as the implications of gender, race, sexuality, nationality and birth order…
+- and anything else that you can think of because we humans are—well—human!
 
-A BA in sociology prepares students for many careers and graduate programs and provides a broad sociological perspective and specific research, statistical and analytic skills.
+What is more important is that in the process of learning about the obvious and not so obvious aspects of what people do with one another, you will acquire a concrete set of skills in data analysis, statistics, fieldwork, and research methods that will prepare you for whatever you choose to do for your professional future. 
 
-Students who are interested in a career in the health field can pursue a special sociology major focused on health-related coursework.
-<div class="col m12 l4"><br>
-</div>
+In other words, you will gain more than an insight into the mundane and complex features of the social life of humans. You will gain the analytical and comprehension skills that are at the heart of complex decision making no matter the social context. 
 
-## Flexible Coursework
+## Academic Offerings
 
-Our program allows students to specialize in a wide range of areas, all of which are pressing public and social issues: health and medicine, racial and ethnic inequality, globalization and immigration, urban studies, and the  sociology of gender and sexuality. Students tailor their coursework to fit their specific interests and desired career paths.
-
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply). 
-
-## What We Offer
-
+**Bachelors Programs**
 - [BA in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology/)
 - [BA in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology-health-track/)
+**Minors**
 - [Minor in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology/)
 - [Minor in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology-health/)
+**Certificate**
 - [Certificate in Health Research](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/certificate-health-research/)
+**Dual Degree Bachelor's and Master's Programs**
 - [4+1 Program: BA in Sociology + MA in Sociology](https://sites.temple.edu/acceleratedsociology/)
 - [4+1 Program: BA in GSWS + MA in Sociology](https://sites.temple.edu/gswssoc/)
 - [4+1 Program: BA in Sociology + M.Ed. in Adult and Organizational Development](http://education.temple.edu/aod/sociology-ba-adult-organizational-development-med)
 - [4+1 Program: BA in Sociology + M.Ed. in Urban Education](http://education.temple.edu/urbaned/accelerated-program-dual-degree-41-sociology-ba-and-urban-education-med)
+
+## Flexible Coursework
+
+In addition to excellent skills training, we offer courses in topics like:
+- Gender & Sexuality
+- Health & Medicine
+- Race & Ethnicity
+- Media & Popular Culture
+- Religion & Society
+- Globalization & International Studies
+- Philadelphia & Urban Sociology
+
+For more details, check out the sociology [course catalog](http://www.asanet.org/career-center/careers-sociology)!
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply). 
