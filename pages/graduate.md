@@ -57,7 +57,7 @@ The Department of Sociology offers three graduate programs:
 
 Please visit the [Sociology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/sociology) to learn more about the MA, Phd and PSM in Applied Sociology graduate program requirements, application checklist, dates and deadlines and instructions on how to apply.
  
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 **I don't have an MA yet, but I eventually want a PhD. Which program do I apply to?**
 
