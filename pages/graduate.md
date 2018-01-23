@@ -43,7 +43,7 @@ published: true
 
 Our graduate programs are devoted to the training of research scholars and educators in the discipline. We provide advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity and urban sociology.
 
-## What We Offer
+## Academic Offerings
 
 The Department of Sociology offers three graduate programs:
 
@@ -52,8 +52,6 @@ The Department of Sociology offers three graduate programs:
 - The [PhD in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-phd/) concentrates on a variety of subfields of sociology to prepare students for research and teaching in academic settings and for advanced work in applied research settings. The program allows students some flexibility in developing additional specialty areas. The main areas of doctoral research are race & ethnicity, gender & sexuality, urban sociology, medical sociology, globalization, and immigration.
 - The [Urban Bioethics MA and Sociology MA Dual Degree Program](https://sites.temple.edu/maubmasoc/) provides advanced training in urban bioethics, community engagement, sociological theory, statistics and research methods. Students prepare for research careers, social services careers, public health careers, and PhD programs.
 - The [Urban Bioethics MA and Sociology PhD Dual Degree Program](https://sites.temple.edu/maubphdsoc/) concentrates on public health, and medical sociology to prepare students for research and teaching in academic settings and for advanced work in applied research settings.
-
-The main areas of graduate research are race & ethnicity, gender & sexuality, urban sociology, medical sociology, and globalization & immigration.
 
 ## Admissions Process
 
@@ -103,4 +101,4 @@ PhD applicants: Applications are reviewed in January and early decisions are mad
 
 Initially, we will make admissions offers only to a small handful of students based on the number of funded positions we have. We will also reject applicants who are not admissible. Those decisions can be seen online. Students who do not receive an offer, but are not rejected, are on a waitlist for funded positions and will be contacted if and when a position is available. It can sometimes take until mid-April before we finalize the PhD cohort. Waitlisted students will be offered unfunded enrollment in the MA program.
  
-MA applicants: Applications are reviewed in March and decisions are made by April 1.
+MA applicants: Applications are reviewed in March and decisions are made by **_April 1**_.
