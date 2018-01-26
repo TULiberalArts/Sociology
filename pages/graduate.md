@@ -40,11 +40,11 @@ sidebar-content: |
    [cstaples@temple.edu](mailto:cstaples@temple.edu)
 published: true
 ---
-
 Our graduate programs are devoted to the training of research scholars and educators in the discipline. We provide advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity and urban sociology.
 
-## Academic Offerings
+Please visit the [Sociology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/sociology) to learn more about the MA, Phd and PSM in Applied Sociology graduate program requirements, application checklist, dates and deadlines and instructions on how to apply.
 
+## Academic Offerings
 The Department of Sociology offers three graduate programs:
 
 - The [Master of Arts in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-ma/) provides advanced training in sociological theory, statistics and research methods. Students prepare for research careers, social services careers, and PhD programs.
@@ -54,7 +54,6 @@ The Department of Sociology offers three graduate programs:
 - The [Urban Bioethics MA and Sociology PhD Dual Degree Program](https://sites.temple.edu/maubphdsoc/) concentrates on public health, and medical sociology to prepare students for research and teaching in academic settings and for advanced work in applied research settings.
 
 ## Admissions Process
-
 Please visit the [Sociology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/sociology) to learn more about the MA, Phd and PSM in Applied Sociology graduate program requirements, application checklist, dates and deadlines and instructions on how to apply.
  
 ## Frequently Asked Questions
