@@ -23,7 +23,26 @@ published: true
 Temple sociology offers you the chance to acquire the skills you need to navigate these challenging times. We seek undergraduates willing to be rigorously trained in theories and methods of social analysis, to be equipped for success in fields like business, education, law, community organizing, and for those who enroll in our sociology of health track, a wide range of health professions. We also seek highly motivated students for our master's and doctoral programs.
 
 For further information regarding sociology requirements and to make an appointment with a sociology advisor, contact the undergraduate coordinator at [215-204-1494](tel:2152041494).
-<br />
+
+## Academic Offerings
+
+**Bachelors Programs**<br/>
+- [BA in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology/)
+- [BA in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology-health-track/)
+
+**Minors**<br/>
+- [Minor in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology/)
+- [Minor in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology-health/)
+
+**Certificate**<br/>
+- [Certificate in Health Research](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/certificate-health-research/)
+
+**Dual Degree Bachelor's and Master's Programs**<br/>
+- [4+1 Program: BA in Sociology + MA in Sociology](https://sites.temple.edu/acceleratedsociology/)
+- [4+1 Program: BA in GSWS + MA in Sociology](https://sites.temple.edu/gswssoc/)
+- [4+1 Program: BA in Sociology + M.Ed. in Adult and Organizational Development](http://education.temple.edu/aod/sociology-ba-adult-organizational-development-med)
+- [4+1 Program: BA in Sociology + M.Ed. in Urban Education](http://education.temple.edu/urbaned/accelerated-program-dual-degree-41-sociology-ba-and-urban-education-med)
+
 <div class="row row-wider">
 <br />
 <div class="col m12 l4">{% include cards/card2-image.html title="Design Your Program" content="Tailor your coursework to fit your specific interests and career path. Sociology majors can choose to specialize in one of the world's most pressing public or social issues." image="assets/img_gs_rome.png"  button-link="undergraduate/" button-text="Learn More" %}</div>
