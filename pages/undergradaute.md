@@ -55,25 +55,6 @@ What is more important is that in the process of learning about the obvious and 
 
 In other words, you will gain more than an insight into the mundane and complex features of the social life of humans. You will gain the analytical and comprehension skills that are at the heart of complex decision making no matter the social context. 
 
-## Academic Offerings
-
-**Bachelors Programs**<br/>
-- [BA in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology/)
-- [BA in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology-health-track/)
-
-**Minors**<br/>
-- [Minor in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology/)
-- [Minor in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology-health/)
-
-**Certificate**<br/>
-- [Certificate in Health Research](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/certificate-health-research/)
-
-**Dual Degree Bachelor's and Master's Programs**<br/>
-- [4+1 Program: BA in Sociology + MA in Sociology](https://sites.temple.edu/acceleratedsociology/)
-- [4+1 Program: BA in GSWS + MA in Sociology](https://sites.temple.edu/gswssoc/)
-- [4+1 Program: BA in Sociology + M.Ed. in Adult and Organizational Development](http://education.temple.edu/aod/sociology-ba-adult-organizational-development-med)
-- [4+1 Program: BA in Sociology + M.Ed. in Urban Education](http://education.temple.edu/urbaned/accelerated-program-dual-degree-41-sociology-ba-and-urban-education-med)
-
 ## Flexible Coursework
 
 In addition to excellent skills training, we offer courses in topics like:
