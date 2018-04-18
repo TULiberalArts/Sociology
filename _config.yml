@@ -5,7 +5,8 @@ title: Sociology
 baseurl: /sociology
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-
+#url sptis sitemap
+url: https://www.cla.temple.edu/sociology/
 
 # Program Information
 # Short tagline for tweets (<100 characters)
