@@ -2,7 +2,7 @@
 title: Next Stops
 permalink: /next-stops/
 layout: page
-keywords: 'internships, students, sociology degree'
+keywords: 'careers, internships, study abroad, certificates, sociology degree'
 published: true
 ---
 A sociology degree will prepare you for professional careers and graduate programs by providing you with a broad sociological perspective and specific research, statistical and analytical skills. Sociology students study the social lives of people. This includes group interactions, social institutions (e.g., politics, the economy), and societal values and norms. Courses address a wide range of topics including current social issues, social movements, family structure, urbanization and life in cities, organizations and corporations, health and health care, politics, law, and identity (e.g., race, class, gender, and sexuality).
