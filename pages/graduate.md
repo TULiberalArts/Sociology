@@ -2,7 +2,7 @@
 title: Graduate
 permalink: /graduate/
 layout: page
-keywords: 'ma program, phd program, temple, sociology'
+keywords: 'ma program, phd program, admissions, sociology, faq'
 sidebar: true
 sidebar-content: |
   **Chair:**  
