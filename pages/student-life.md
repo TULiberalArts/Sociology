@@ -2,7 +2,7 @@
 title: Student Life
 permalink: /student-life/
 layout: page
-keywords: 'internships, students, clubs'
+keywords: 'internships, students, clubs, SUMMA'
 published: true
 ---
 ## Sociology Undergraduate Majors and Minors Association (SUMMA)
