@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home3
 description: >-
-keywords: 'sociology, social change, research'
+keywords: 'sociology, BA, MA, certificate, academic offerings'
 feature: true
 feature-title: Research. Teaching. Social Change.
 feature-image: media/hero_bg.png
