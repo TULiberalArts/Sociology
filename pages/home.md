@@ -43,6 +43,13 @@ For further information regarding sociology requirements and to make an appointm
 - [4+1 Program: BA in Sociology + M.Ed. in Adult and Organizational Development](http://education.temple.edu/aod/sociology-ba-adult-organizational-development-med)
 - [4+1 Program: BA in Sociology + M.Ed. in Urban Education](http://education.temple.edu/urbaned/accelerated-program-dual-degree-41-sociology-ba-and-urban-education-med)
 
+**Graduate Programs**
+- [Master of Arts in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-ma/)
+- [Professional Science Master’s in Applied Sociology ](http://bulletin.temple.edu/graduate/scd/cla/applied-sociology-psm/)
+- [PhD in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-phd/)
+- [Urban Bioethics MA and Sociology MA Dual Degree Program](https://sites.temple.edu/maubmasoc/)
+- [Urban Bioethics MA and Sociology PhD Dual Degree Program](https://sites.temple.edu/maubphdsoc/)
+
 <div class="row row-wider">
 <div class="col m12 l4">{% include cards/card2-image.html title="Design Your Program" content="Tailor your coursework to fit your specific interests and career path. Sociology majors can choose to specialize in one of the world's most pressing public or social issues." image="assets/img_gs_rome.png"  button-link="undergraduate/" button-text="Learn More" %}</div>
 <div class="col m12 l4">{% include cards/card2-image.html title="Learn from Top Faculty" content="Our highly accomplished professors have received accolades for both their research and award-winning teaching." image="assets/img_gs_languages.png" button-link="faculty/" button-text="Learn More" %}</div>
