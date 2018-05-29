@@ -2,7 +2,6 @@
 # global predefined variables
 layout: tla-home
 permalink: /
-published: true
 # meta-data variables
 title: Home
 description: >-
@@ -19,12 +18,13 @@ feature-body: >-
   disciplines ask these questions, but sociology answers them with scientific
   methods and sophisticated theories, all with a focus on social change and
   improving public policy.
-
+  published: true
 ---
+Students in Temple University’s sociology degree programs study social behaviors, structures and institutions. Why do societies differ so much across time and around the world? Why are some social problems so persistent? Why do individuals with similar skills and talents have such different opportunities in life? Many disciplines ask these questions, but sociology answers them with scientific methods and sophisticated theories, all with a focus on social change and improving public policy.
 
 **_We are saddened by the passing of our beloved professor, [David Allen](https://liberalarts.temple.edu/about-us/newsroom/memoriam-david-allen).  He passed away June 8, 2017.  He will be greatly missed by his students, colleagues, and friends at Temple University._**
 
-Temple sociology offers you the chance to acquire the skills you need to navigate these challenging times. We seek undergraduates willing to be rigorously trained in theories and methods of social analysis, to be equipped for success in fields like business, education, law, community organizing, and for those who enroll in our sociology of health track, a wide range of health professions. We also seek highly motivated students for our master's and doctoral programs.
+Temple’s sociology degrees offer you the chance to acquire the skills you need to navigate these challenging times. We seek undergraduate sociology students willing to be rigorously trained in theories and methods of social analysis, to be equipped for success in fields like business, education, law and community organizing. Those who enroll in our sociology of health track, meanwhile, pursue futures in a wide range of health professions. We also seek highly motivated students for our sociology master’s degree and doctoral programs.
 
 For further information regarding sociology requirements and to make an appointment with a sociology advisor, contact the undergraduate coordinator at [215-204-1494](tel:2152041494).
 
