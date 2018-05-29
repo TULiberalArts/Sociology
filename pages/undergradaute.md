@@ -44,7 +44,9 @@ sidebar-content: |
    [(215) 204-1494](tel:2152041494)  
    [cstaples@temple.edu](mailto:cstaples@temple.edu)
 ---
-## What is Sociology Anyway?
+As a College of Liberal Arts Sociology degree undergrad, you’ll learn [what sociology is](#what-is-sociology-anyway) and how you can apply it to see the world and its people differently. You’ll learn the skills and knowledge you need to build a successful career through [flexible coursework](#flexible-coursework) unique to your goals.
+
+## What Is Sociology Anyway?
 
 Sociologists study everything that humans do together from sex to politics…
 - everything humans produce from families to cities…
