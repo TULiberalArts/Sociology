@@ -1,9 +1,12 @@
 ---
-title: Undergraduate
-permalink: /undergraduate/
+# global predefined variables
 layout: page
-keywords: 'bachelors degree, sociology, coursework'
+permalink: /undergraduate/
 published: true
+# meta-data variables
+title: Undergraduate
+keywords: 'bachelors degree, sociology, coursework'
+# custom variables
 sidebar: true
 sidebar-content: |
   **Chair:**  
@@ -51,9 +54,9 @@ Sociologists study everything that humans do together from sex to politics…
 - as well as the implications of gender, race, sexuality, nationality and birth order…
 - and anything else that you can think of because we humans are—well—human!
 
-What is more important is that in the process of learning about the obvious and not so obvious aspects of what people do with one another, you will acquire a concrete set of skills in data analysis, statistics, fieldwork, and research methods that will prepare you for whatever you choose to do for your professional future. 
+What is more important is that in the process of learning about the obvious and not so obvious aspects of what people do with one another, you will acquire a concrete set of skills in data analysis, statistics, fieldwork, and research methods that will prepare you for whatever you choose to do for your professional future.
 
-In other words, you will gain more than an insight into the mundane and complex features of the social life of humans. You will gain the analytical and comprehension skills that are at the heart of complex decision making no matter the social context. 
+In other words, you will gain more than an insight into the mundane and complex features of the social life of humans. You will gain the analytical and comprehension skills that are at the heart of complex decision making no matter the social context.
 
 ## Flexible Coursework
 
@@ -68,4 +71,4 @@ In addition to excellent skills training, we offer courses in topics like:
 
 For more details, check out the sociology [course catalog](http://www.asanet.org/career-center/careers-sociology)!
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply). 
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).

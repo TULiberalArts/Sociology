@@ -1,9 +1,12 @@
 ---
-title: Next Stops
+# global predefined variables
+layout: tla_page
 permalink: /next-stops/
-layout: page
-keywords: 'careers, internships, study abroad, certificates, sociology degree'
 published: true
+# meta-data variables
+title: Next Stops
+keywords: 'careers, internships, study abroad, certificates, sociology degree'
+# custom variables
 ---
 A sociology degree will prepare you for professional careers and graduate programs by providing you with a broad sociological perspective and specific research, statistical and analytical skills. Sociology students study the social lives of people. This includes group interactions, social institutions (e.g., politics, the economy), and societal values and norms. Courses address a wide range of topics including current social issues, social movements, family structure, urbanization and life in cities, organizations and corporations, health and health care, politics, law, and identity (e.g., race, class, gender, and sexuality).
 
@@ -12,7 +15,7 @@ Through research-intensive coursework and specially-designed internships, studen
 We encourage students to jumpstart their careers by participating in our sociology **internship** seminar. Sociology students should seek to broaden their horizons through **study abroad** opportunities. Skills-based **certificates** are an excellent way to boost your resume in as few as four courses. Information about all of these opportunities are found below, as well as some sample **careers** from our alumni.
 
 ## Sociology Internship Seminar
-The [sociology internship program](https://docs.google.com/forms/d/e/1FAIpQLScOsrlG4ub7joXweqIsw0DU8eHnnrRRetQZGK6IklMB9Afzfg/viewform) provides a learning experience that unites the core concepts of sociology with professional organizational settings and the community as a whole, while also guiding students as they transition into their own professional lives. Students who participate in the Sociology Internship Seminar are expected to serve an average of 10 hours per week in a local internship placement. In addition, students attend class seminar meetings and perform weekly assignments. The course can be taken for 1-4 credits and counts towards the elective requirements of the sociology major. Students may find their own internship placement or request placement assistance from the internship director. 
+The [sociology internship program](https://docs.google.com/forms/d/e/1FAIpQLScOsrlG4ub7joXweqIsw0DU8eHnnrRRetQZGK6IklMB9Afzfg/viewform) provides a learning experience that unites the core concepts of sociology with professional organizational settings and the community as a whole, while also guiding students as they transition into their own professional lives. Students who participate in the Sociology Internship Seminar are expected to serve an average of 10 hours per week in a local internship placement. In addition, students attend class seminar meetings and perform weekly assignments. The course can be taken for 1-4 credits and counts towards the elective requirements of the sociology major. Students may find their own internship placement or request placement assistance from the internship director.
 
 If you have questions about the internship program, please send them to [Dustin Kidd](mailto:dkidd@temple.edu). To participate in the Sociology Internship Seminar, students must complete the [application](https://goo.gl/forms/KOM8QrYqLtPtjk2A2).
 
@@ -22,12 +25,12 @@ Our students have secured internships with:
  - The Please Touch Museum
  - American Lung Association
 
-For semesters when the sociology internship seminar is not offered, students have the option to take the internship seminar offered by the College of Liberal Arts, [CLA 2685](https://liberalarts.temple.edu/advising/professional-development/internships). This course provides credits towards the required CLA electives. [CLA Advising and Professional Development](https://liberalarts.temple.edu/advising/professional-development) offers excellent support for preparing for internships and careers. 
+For semesters when the sociology internship seminar is not offered, students have the option to take the internship seminar offered by the College of Liberal Arts, [CLA 2685](https://liberalarts.temple.edu/advising/professional-development/internships). This course provides credits towards the required CLA electives. [CLA Advising and Professional Development](https://liberalarts.temple.edu/advising/professional-development) offers excellent support for preparing for internships and careers.
 
 ## Study Abroad
-Temple’s [study abroad programs](https://studyabroad.temple.edu/) provide an excellent opportunity to apply your sociological imagination as you discover new parts of the world. In addition to our campuses in Rome and Tokyo, Temple students have access to dozens of programs run by Temple faculty either during the school year or during the summer. 
+Temple’s [study abroad programs](https://studyabroad.temple.edu/) provide an excellent opportunity to apply your sociological imagination as you discover new parts of the world. In addition to our campuses in Rome and Tokyo, Temple students have access to dozens of programs run by Temple faculty either during the school year or during the summer.
 
-We especially encourage sociology students to consider the [Jamaica International Service Learning and Research](https://studyabroad.temple.edu/sites/temple-summer-in-jamaica) opportunity that is available every year from mid-May to late June. Run by sociologists Novella Keith and Georgia Bianchi, this program allows students to gain up to 6 credits in fieldwork and service learning. The courses count as electives towards the sociology major. 
+We especially encourage sociology students to consider the [Jamaica International Service Learning and Research](https://studyabroad.temple.edu/sites/temple-summer-in-jamaica) opportunity that is available every year from mid-May to late June. Run by sociologists Novella Keith and Georgia Bianchi, this program allows students to gain up to 6 credits in fieldwork and service learning. The courses count as electives towards the sociology major.
 
 ## Certificates
 Sociology students who are looking to boost their resumes are encouraged to consider pursuing one of the following skills-based certificate programs:

@@ -1,9 +1,13 @@
 ---
-title: Home
+# global predefined variables
+layout: tla-home
 permalink: /
-layout: home3
+published: true
+# meta-data variables
+title: Home
 description: >-
 keywords: 'sociology, BA, MA, certificate, academic offerings'
+# custom variables
 feature: true
 feature-title: Research. Teaching. Social Change.
 feature-image: media/hero_bg.png
@@ -15,7 +19,7 @@ feature-body: >-
   disciplines ask these questions, but sociology answers them with scientific
   methods and sophisticated theories, all with a focus on social change and
   improving public policy.
-published: true
+
 ---
 
 **_We are saddened by the passing of our beloved professor, [David Allen](https://liberalarts.temple.edu/about-us/newsroom/memoriam-david-allen).  He passed away June 8, 2017.  He will be greatly missed by his students, colleagues, and friends at Temple University._**

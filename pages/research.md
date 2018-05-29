@@ -1,10 +1,13 @@
 ---
-title: Research
+# global predefined variables
+layout: tla_page
 permalink: /research/
-layout: page
-description: >-
-keywords: ''
 published: false
+# meta-data variables
+title: Research
+keywords: ''
+description: >-
+# custom variables
 ---
 ## Center for Vietnamese Philosophy, Culture, and Society
 

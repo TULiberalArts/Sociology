@@ -1,8 +1,12 @@
 ---
-title: Graduate
-permalink: /graduate/
+# global predefined variables
 layout: page
+permalink: /graduate/
+published: true
+# meta-data variables
+title: Graduate
 keywords: 'ma program, phd program, admissions, sociology, faq'
+# custom variables
 sidebar: true
 sidebar-content: |
   **Chair:**  
@@ -38,7 +42,7 @@ sidebar-content: |
    713 Gladfelter Hall    
    [(215) 204-1494](tel:2152041494)  
    [cstaples@temple.edu](mailto:cstaples@temple.edu)
-published: true
+
 ---
 Our graduate programs are devoted to the training of research scholars and educators in the discipline. We provide advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity and urban sociology.
 
