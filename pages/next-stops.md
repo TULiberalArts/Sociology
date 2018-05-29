@@ -8,11 +8,7 @@ title: Next Stops
 keywords: 'careers, internships, study abroad, certificates, sociology degree'
 # custom variables
 ---
-A sociology degree will prepare you for professional careers and graduate programs by providing you with a broad sociological perspective and specific research, statistical and analytical skills. Sociology students study the social lives of people. This includes group interactions, social institutions (e.g., politics, the economy), and societal values and norms. Courses address a wide range of topics including current social issues, social movements, family structure, urbanization and life in cities, organizations and corporations, health and health care, politics, law, and identity (e.g., race, class, gender, and sexuality).
-
-Through research-intensive coursework and specially-designed internships, students gain experience in research methods that include fieldwork, interviewing, analyzing surveys, statistical analysis, and writing research reports.
-
-We encourage students to jumpstart their careers by participating in our sociology **internship** seminar. Sociology students should seek to broaden their horizons through **study abroad** opportunities. Skills-based **certificates** are an excellent way to boost your resume in as few as four courses. Information about all of these opportunities are found below, as well as some sample **careers** from our alumni.
+A Temple University sociology degree will prepare you for a successful career, empowering you to think differently by opening your eyes to new perspectives. Jumpstart your career with a sociology [internship](#sociology-internship-seminar), broaden your horizons by [studying abroad](#study-abroad) and expand your skills by earning [certificates](#certificates).
 
 ## Sociology Internship Seminar
 The [sociology internship program](https://docs.google.com/forms/d/e/1FAIpQLScOsrlG4ub7joXweqIsw0DU8eHnnrRRetQZGK6IklMB9Afzfg/viewform) provides a learning experience that unites the core concepts of sociology with professional organizational settings and the community as a whole, while also guiding students as they transition into their own professional lives. Students who participate in the Sociology Internship Seminar are expected to serve an average of 10 hours per week in a local internship placement. In addition, students attend class seminar meetings and perform weekly assignments. The course can be taken for 1-4 credits and counts towards the elective requirements of the sociology major. Students may find their own internship placement or request placement assistance from the internship director.
@@ -45,7 +41,11 @@ Sociology students who are looking to boost their resumes are encouraged to cons
 - [Certificate in Spanish and Latino Studies for Health and Human Services](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/certificate-specialization-spanish-latino-studies-health-human-services-professions/)
 - [Certificate in Arts in Community](http://bulletin.temple.edu/undergraduate/tyler-art/art-education-community-arts-practices/certificate-arts-community/)
 
-## Careers
+## Sociology Careers
+A sociology degree will prepare you for professional careers and graduate programs by providing you with a broad sociological perspective and research, statistical and analytical skills. Sociology students study the social lives of people. This includes group interactions, social institutions (e.g., politics, the economy) and societal values and norms. Courses address a wide range of topics including current social issues, social movements, family structure, urbanization and life in cities, organizations and corporations, health and health care, politics, law, and identity (e.g., race, class, gender and sexuality).
+
+Through research-intensive coursework and specially designed internships, students gain experience in research methods including fieldwork, interviewing, analyzing surveys, statistical analysis and writing research reports.
+
 Recently, our alumni have secured positions with the following employers:
 
  - Patient access representative at St. Luke’s University Health Network
