@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: tla-home
+layout: tla_home
 permalink: /
 # meta-data variables
 title: Home
