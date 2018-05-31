@@ -42,7 +42,6 @@ sidebar-content: |
    713 Gladfelter Hall    
    [(215) 204-1494](tel:2152041494)  
    [cstaples@temple.edu](mailto:cstaples@temple.edu)
-
 ---
 Our sociology graduate degree programs are devoted to the training of research scholars and educators in the discipline. We provide advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity, and urban sociology. Take a look at our [academic offerings](#academic-offerings), [admissions process](#admissions-process) and [FAQ](#frequently-asked-questions) for answers to any questions you have about sociology graduate degrees at Temple University.
 
