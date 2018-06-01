@@ -5,7 +5,7 @@ permalink: /faculty/
 published: true
 # meta-data variables
 title: Faculty
-keywords: 'faculty, sociology'
 description: >-
+keywords: 'faculty, sociology'
 # custom variables
 ---
