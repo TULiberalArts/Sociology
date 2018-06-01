@@ -2,11 +2,14 @@
 # global predefined variables
 layout: tla_home
 permalink: /
+published: true
 # meta-data variables
 title: Home
 description: >-
 keywords: 'sociology, BA, MA, certificate, academic offerings'
 # custom variables
+# custom variables
+sidebar: false
 feature: true
 feature-title: Research. Teaching. Social Change.
 feature-image: media/hero_bg.png
@@ -18,7 +21,6 @@ feature-body: >-
   disciplines ask these questions, but sociology answers them with scientific
   methods and sophisticated theories, all with a focus on social change and
   improving public policy.
-  published: true
 ---
 Students in Temple University’s sociology degree programs study social behaviors, structures and institutions. Why do societies differ so much across time and around the world? Why are some social problems so persistent? Why do individuals with similar skills and talents have such different opportunities in life? Many disciplines ask these questions, but sociology answers them with scientific methods and sophisticated theories, all with a focus on social change and improving public policy.
 
