@@ -1,47 +1,15 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /graduate/
 published: true
 # meta-data variables
 title: Graduate
+description: >-
 keywords: 'ma program, phd program, admissions, sociology, faq'
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Kimberly Goyette  
-   737 Gladfelter Hall  
-   [(215) 204-0134](tel:2152040134)  
-   [kgoyette@temple.edu](mailto:kgoyette@temple.edu)  
-   
-   ___
-   
-   **Graduate Chair:**  
-   Dustin Kidd  
-   762 Gladfelter Hall   
-   [dkidd@temple.edu](mailto:dkidd@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Jessica Brennan  
-   708 Gladfelter Hall   
-   [(215) 204-7577](tel:2152047577)  
-   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
-   
-   ___
-
-   **Coordinators:**  
-   Pamela Smallwood  
-   713 Gladfelter Hall    
-   [(215) 204-7750](tel:2152047750)   
-   [poppy@temple.edu](mailto:poppy@temple.edu)  
-
-   Catherine Staples  
-   713 Gladfelter Hall    
-   [(215) 204-1494](tel:2152041494)  
-   [cstaples@temple.edu](mailto:cstaples@temple.edu)
+sidebar_content: sidebars/graduate.html
 ---
 Our sociology graduate degree programs are devoted to the training of research scholars and educators in the discipline. We provide advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity, and urban sociology. Take a look at our [academic offerings](#academic-offerings), [admissions process](#admissions-process) and [FAQ](#frequently-asked-questions) for answers to any questions you have about sociology graduate degrees at Temple University.
 
