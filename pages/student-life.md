@@ -5,6 +5,9 @@ permalink: /student-life/
 published: true
 # meta-data variables
 title: Student Life
+description: >-
+  As a Sociology student of Temple University, join clubs such as the Sociology Undergraduate Majors and Minors Association (SUMMA),
+  or the Temple Sociology Graduate Student Association, offered to you through the College of Liberal Arts.
 keywords: 'internships, students, clubs, SUMMA'
 # custom variables
 ---
