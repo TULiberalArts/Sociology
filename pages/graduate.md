@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
+ Explore your options in Sociology at Temple University. Earn a MA, PMA, or PhD in Sociology, or try one of our MA or PhD dual degree 
+ programs with Urban Bioethics. Learn more about our academic offerings, admissions process, and FAQs in the College of Liberal Arts.
 keywords: 'ma program, phd program, admissions, sociology, faq'
 # custom variables
 sidebar: true
