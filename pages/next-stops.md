@@ -5,6 +5,9 @@ permalink: /next-stops/
 published: true
 # meta-data variables
 title: Next Stops
+description: >-
+ See what your career could look like when you earn a degree in Sociology from Temple University! Pursue the 
+ Sociology Internship Seminar, study abroad, and earn certificates from the College of Liberal Arts.
 keywords: 'careers, internships, study abroad, certificates, sociology degree'
 # custom variables
 ---
