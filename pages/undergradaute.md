@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
+  Discover the ins and outs of sociology by pursuing a bachelor's degree or minor in either Sociology or 
+  Sociology of Health, or a certificate in Health Research at Temple University’s College of Liberal Arts. 
 keywords: 'bachelors degree, sociology, coursework'
 # custom variables
 sidebar: true
