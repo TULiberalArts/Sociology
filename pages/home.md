@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >-
+  Explore the study of social behaviors, structures, and institutions, by earning a BA, MA,
+  or certificate in Sociology at Temple University’s College of Liberal Arts.
 keywords: 'sociology, BA, MA, certificate, academic offerings'
 # custom variables
 # custom variables
