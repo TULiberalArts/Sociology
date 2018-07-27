@@ -8,6 +8,11 @@ production: https://www.cla.temple.edu
 #url sptis sitemap
 url: https://www.cla.temple.edu/sociology/
 
+# Development Config
+# If you do not have access to 'tutheme', use 'minima' instead.
+theme: tutheme
+palette: light #future feature
+
 # Program Information
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
@@ -24,6 +29,24 @@ address:
   city: Philadelphia, PA 19122
   email: sociology@temple.edu
   phone: 215-204-7760
+
+# University & College Information
+university:
+  name: Temple University
+  url: https://temple.edu/
+college:
+  name: College of Liberal Arts
+  url: https://liberalarts.temple.edu/
+  
+program_news: https://liberalarts.temple.edu/news/sociology
+program_events: https://events.temple.edu/department/sociology
+
+# CSV/JSON/YAML data feeds URLs, to be fetched before each build
+events-feed: https://liberalarts.temple.edu/events/sociology/csv
+news-feed: https://liberalarts.temple.edu/articles/sociology/csv
+articles-feed: https://liberalarts.temple.edu/articles/sociology/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/sociology/csv
+media-mentions-feed: https://liberalarts.temple.edu/media-mentions/sociology/csv
 
 # Social Media
 # Put in only the username unless otherwise noted
@@ -50,34 +73,10 @@ social:
   linkedin: https://www.linkedin.com/in/templesociology/
   # Slack - Paste the FULL URL below
   slack:
+  # Google Tag Manager OR Google Analytics
+  google_analytics:
+  google_tag_manager: GTM-58ZL5B
 
-# University & College Information
-university:
-  name: Temple University
-  url: https://temple.edu/
-college:
-  name: College of Liberal Arts
-  url: https://liberalarts.temple.edu/
-program_news: https://liberalarts.temple.edu/news/sociology
-program_events: https://events.temple.edu/department/sociology
-
-
-# Google Tag Manager OR Google Analytics
-google_analytics:
-
-
-google_tag_manager: GTM-58ZL5B
-
-# CSV/JSON/YAML data feeds URLs, to be fetched before each build
-events-feed: https://liberalarts.temple.edu/events/sociology/csv
-news-feed: https://liberalarts.temple.edu/articles/sociology/csv
-articles-feed: https://liberalarts.temple.edu/articles/sociology/csv
-faculty-feed: https://liberalarts.temple.edu/profiles/sociology/csv
-media-mentions-feed: https://liberalarts.temple.edu/media-mentions/sociology/csv
-
-# Development Config
-# If you do not have access to 'tutheme', use 'minima' instead.
-theme: tutheme
 
 # Global Site Config
 # DO NOT edit below unless if you know what you're doing!
