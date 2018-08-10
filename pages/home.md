@@ -43,7 +43,7 @@ For further information regarding sociology requirements and to make an appointm
 - [Minor in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology-health/)
 
 **Certificate**<br/>
-- [Certificate in Health Research](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/certificate-health-research/)
+- [Certificate in Health Research](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-health-research/)
 
 **Dual Degree Bachelor's and Master's Programs**<br/>
 - [4+1 Program: BA in Sociology + MA in Sociology](https://liberalarts.temple.edu/ba-sociology-ma-sociology)
