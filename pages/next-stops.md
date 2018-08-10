@@ -34,15 +34,14 @@ We especially encourage sociology students to consider the [Jamaica Internationa
 ## Certificates
 Sociology students who are looking to boost their resumes are encouraged to consider pursuing one of the following skills-based certificate programs:
 
-- [Certificate in Health Research](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/certificate-health-research/)
-- [Certificate in Language and Cross-Cultural Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/language-cross-cultural-communication-certificate/)
-- [Management Career Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/management-career-certificate/)
-- [Certificate in Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/certificate-writing/)
-- [Certificate in Gender, Sexuality, and Women's Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/certificate-gender-sexuality-womens-studies/)
-- [Certificate in GIS](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
-- [Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/)
-- [Certificate in Spanish and Latino Studies for Health and Human Services](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/certificate-specialization-spanish-latino-studies-health-human-services-professions/)
-- [Certificate in Arts in Community](http://bulletin.temple.edu/undergraduate/tyler-art/art-education-community-arts-practices/certificate-arts-community/)
+- [Certificate in Health Research](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-health-research/)
+- [Certificate in Language and Cross-Cultural Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-language-cross-cultural-communication/)
+- [Management Career Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-management-career/)
+- [Certificate in Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-writing/)
+- [Certificate in Gender, Sexuality, and Women's Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-gender-sexuality-womens-studies/)
+- [Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-geographic-information-systems/)
+- [Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-ethics/)
+- [Certificate in Spanish and Latino Studies for Health and Human Services](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-spanish-latino-studies-health-human-services-professions/)
 
 ## Sociology Careers
 A sociology degree will prepare you for professional careers and graduate programs by providing you with a broad sociological perspective and research, statistical and analytical skills. Sociology students study the social lives of people. This includes group interactions, social institutions (e.g., politics, the economy) and societal values and norms. Courses address a wide range of topics including current social issues, social movements, family structure, urbanization and life in cities, organizations and corporations, health and health care, politics, law, and identity (e.g., race, class, gender and sexuality).
