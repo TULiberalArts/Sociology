@@ -15,8 +15,6 @@ sidebar_content: sidebars/graduate.html
 ---
 Our sociology graduate degree programs are devoted to the training of research scholars and educators in the discipline. We provide advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity, and urban sociology. Take a look at our [academic offerings](#academic-offerings), [admissions process](#admissions-process) and [FAQ](#frequently-asked-questions) for answers to any questions you have about sociology graduate degrees at Temple University.
 
-Please visit the [Sociology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/sociology) to learn more about the MA, Phd and PSM in Applied Sociology graduate program requirements, application checklist, dates and deadlines and instructions on how to apply.
-
 ## Academic Offerings
 The Department of Sociology offers three graduate programs:
 
@@ -27,7 +25,7 @@ The Department of Sociology offers three graduate programs:
 - The [Urban Bioethics MA and Sociology PhD Dual Degree Program](https://sites.temple.edu/maubphdsoc/) concentrates on public health, and medical sociology to prepare students for research and teaching in academic settings and for advanced work in applied research settings.
 
 ## Admissions Process
-Please visit the [Sociology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/sociology) to learn more about the MA, Phd and PSM in Applied Sociology graduate program requirements, application checklist, dates and deadlines and instructions on how to apply.
+Please visit the [Sociology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/sociology-ma/#admissiontext) to learn more about the MA, Phd and PSM in Applied Sociology graduate program requirements, application checklist, dates and deadlines and instructions on how to apply.
  
 ## Frequently Asked Questions
 
