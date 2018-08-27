@@ -25,7 +25,7 @@ The Department of Sociology offers three graduate programs:
 - The [Urban Bioethics MA and Sociology PhD Dual Degree Program](https://sites.temple.edu/maubphdsoc/) concentrates on public health, and medical sociology to prepare students for research and teaching in academic settings and for advanced work in applied research settings.
 
 ## Admissions Process
-Please visit the [Sociology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/sociology-ma/#admissiontext) to learn more about the MA, Phd and PSM in Applied Sociology graduate program requirements, application checklist, dates and deadlines and instructions on how to apply.
+Please follow the links above to learn more about the Sociology graduate program requirements, application checklist, dates and deadlines and instructions on how to apply.
  
 ## Frequently Asked Questions
 
