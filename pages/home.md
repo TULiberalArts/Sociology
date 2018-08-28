@@ -10,7 +10,7 @@ description: >-
   or certificate in Sociology at Temple University’s College of Liberal Arts.
 keywords: 'sociology, BA, MA, certificate, academic offerings'
 # custom variables
-# custom variables
+promotion-table: true
 sidebar: false
 feature: true
 feature-title: Research. Teaching. Social Change.
