@@ -40,6 +40,6 @@ In addition to excellent skills training, we offer courses in topics like:
 - Globalization & International Studies
 - Philadelphia & Urban Sociology
 
-For more details, check out the sociology [course catalog](http://www.asanet.org/career-center/careers-sociology)!
+For more details, check out the sociology [course catalog](http://bulletin.temple.edu/courses/soc/)!
 
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
