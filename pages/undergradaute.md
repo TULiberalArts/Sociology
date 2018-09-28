@@ -10,8 +10,8 @@ description: >-
   Sociology of Health, or a certificate in Health Research at Temple University’s College of Liberal Arts. 
 keywords: 'bachelors degree, sociology, coursework'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 As a College of Liberal Arts Sociology degree undergrad, you’ll learn [what sociology is](#what-is-sociology-anyway) and how you can apply it to see the world and its people differently. You’ll learn the skills and knowledge you need to build a successful career through [flexible coursework](#flexible-coursework) unique to your goals.
 

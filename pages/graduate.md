@@ -10,8 +10,8 @@ description: >-
  programs with Urban Bioethics. Learn more about our academic offerings, admissions process, and FAQs in the College of Liberal Arts.
 keywords: 'ma program, phd program, admissions, sociology, faq'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/graduate.html
+
+sidebar: sidebars/graduate.html
 ---
 Our sociology graduate degree programs are devoted to the training of research scholars and educators in the discipline. We provide advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity, and urban sociology. Take a look at our [academic offerings](#academic-offerings), [admissions process](#admissions-process) and [FAQ](#frequently-asked-questions) for answers to any questions you have about sociology graduate degrees at Temple University.
 

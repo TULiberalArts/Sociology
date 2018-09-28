@@ -11,7 +11,7 @@ description: >-
 keywords: 'sociology, BA, MA, certificate, academic offerings'
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-title: Research. Teaching. Social Change.
 feature-image: media/hero_bg.png
