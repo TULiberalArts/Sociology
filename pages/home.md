@@ -46,7 +46,8 @@ For further information regarding sociology requirements and to make an appointm
 **Dual Degree Bachelor's and Master's Programs**<br/>
 - [4+1 Program: BA in Sociology + MA in Sociology](https://liberalarts.temple.edu/ba-sociology-ma-sociology)
 - [4+1 Program: BA in GSWS + MA in Sociology](https://liberalarts.temple.edu/ba-gender-sexuality-and-womens-studies-ma-sociology)
-- [4+1 Program: BA in Sociology + M.Ed. in Adult and Organizational Development](https://education.temple.edu/)
+- [4+1 Program: BA in Sociology + M.Ed. in Secondary Education ](https://education.temple.edu/node/49646)
+- [4+1 Program: BA in Sociology + M.Ed. in Adult and Organizational Development](https://education.temple.edu/node/49941)
 - [4+1 Program: BA in Sociology + M.Ed. in Urban Education](http://education.temple.edu/urbaned/accelerated-program-dual-degree-41-sociology-ba-and-urban-education-med)
 
 **Graduate Programs**
