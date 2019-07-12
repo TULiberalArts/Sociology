@@ -10,4 +10,5 @@ description: >-
 keywords: 'faculty, sociology'
 # custom variables
 faculty: profiles/faculty.html
+emeritus: profiles/emeritus.html
 ---
