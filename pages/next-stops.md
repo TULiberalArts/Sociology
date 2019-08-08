@@ -37,7 +37,7 @@ Sociology students who are looking to boost their resumes are encouraged to cons
 - [Certificate in Health Research](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-health-research/)
 - [Certificate in Language and Cross-Cultural Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-language-cross-cultural-communication/)
 - [Management Career Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-management-career/)
-- [Certificate in Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-writing/)
+- [Certificate in Professional Writing](https://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-professional-writing/)
 - [Certificate in Gender, Sexuality, and Women's Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-gender-sexuality-womens-studies/)
 - [Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-geographic-information-systems/)
 - [Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-ethics/)
