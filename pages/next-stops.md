@@ -34,7 +34,7 @@ We especially encourage sociology students to consider the [Jamaica Internationa
 ## Certificates
 Sociology students who are looking to boost their resumes are encouraged to consider pursuing one of the following skills-based certificate programs:
 
-- [Certificate in Health Research](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-health-research/)
+- [Certificate in Health Research](https://www.temple.edu/academics/degree-programs/health-research-certificate-undergraduate-la-hlre-cert)
 - [Certificate in Language and Cross-Cultural Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-language-cross-cultural-communication/)
 - [Management Career Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-management-career/)
 - [Certificate in Professional Writing](https://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-professional-writing/)
