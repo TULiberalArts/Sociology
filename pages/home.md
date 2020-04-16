@@ -33,15 +33,15 @@ For further information regarding sociology requirements and to make an appointm
 ## Academic Offerings
 
 **Bachelors Programs**<br/>
-- [BA in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology/)
-- [BA in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/ba-sociology-health-track/)
+- [BA in Sociology](https://www.temple.edu/academics/degree-programs/sociology-major-la-soc-ba)
+- [BA in Sociology of Health](https://www.temple.edu/academics/degree-programs/sociology-major-la-soc-ba)
 
 **Minors**<br/>
 - [Minor in Sociology](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology/)
 - [Minor in Sociology of Health](http://bulletin.temple.edu/undergraduate/liberal-arts/sociology/minor-sociology-health/)
 
 **Certificate**<br/>
-- [Certificate in Health Research](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-health-research/)
+- [Certificate in Health Research](https://www.temple.edu/academics/degree-programs/health-research-certificate-undergraduate-la-hlre-cert)
 
 **Dual Degree Bachelor's and Master's Programs**<br/>
 - [4+1 Program: BA in Sociology + MA in Sociology](https://liberalarts.temple.edu/ba-sociology-ma-sociology)
@@ -51,9 +51,9 @@ For further information regarding sociology requirements and to make an appointm
 - [4+1 Program: BA in Sociology + M.Ed. in Urban Education](http://education.temple.edu/urbaned/accelerated-program-dual-degree-41-sociology-ba-and-urban-education-med)
 
 **Graduate Programs**
-- [Master of Arts in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-ma/)
-- [Professional Science Master’s in Applied Sociology ](http://bulletin.temple.edu/graduate/scd/cla/applied-sociology-psm/)
-- [PhD in Sociology](http://bulletin.temple.edu/graduate/scd/cla/sociology-phd/)
+- [Master of Arts in Sociology](https://www.temple.edu/academics/degree-programs/sociology-ma-la-soc-ma)
+- [Professional Science Master’s in Applied Sociology ](https://www.temple.edu/academics/degree-programs/applied-sociology-psm-la-asoc-psm)
+- [PhD in Sociology](https://www.temple.edu/academics/degree-programs/sociology-phd-la-soc-phd)
 - [Urban Bioethics MA and Sociology MA Dual Degree Program](https://sites.temple.edu/maubmasoc/)
 - [Urban Bioethics MA and Sociology PhD Dual Degree Program](https://sites.temple.edu/maubphdsoc/)
 
