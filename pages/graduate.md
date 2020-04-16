@@ -61,4 +61,4 @@ PhD applicants: Applications are reviewed in January and early decisions are mad
 
 Initially, we will make admissions offers only to a small handful of students based on the number of funded positions we have. We will also reject applicants who are not admissible. Those decisions can be seen online. Students who do not receive an offer, but are not rejected, are on a waitlist for funded positions and will be contacted if and when a position is available. It can sometimes take until mid-April before we finalize the PhD cohort. Waitlisted students will be offered unfunded enrollment in the MA program.
  
-MA applicants: Applications are reviewed in March and decisions are made by **_April 1**_.
+MA applicants: Applications are reviewed in March and decisions are made by **_April 1_**.
