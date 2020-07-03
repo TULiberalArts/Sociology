@@ -29,34 +29,37 @@ Please follow the links above to learn more about the Sociology graduate program
  
 ## Frequently Asked Questions
 
-**I don't have an MA yet, but I eventually want a PhD. Which program do I apply to?**
+**I don't have an MA yet, but I eventually want a PhD. Which program do I apply to?**<br>
 Apply directly to the PhD program. You will obtain your MA within that program, on your path to the PhD. You can only be considered for funding if you apply to the PhD program.
 
-**My scores or GPA may not be good enough for the PhD program. Should I apply to the MA program instead?**
+**My scores or GPA may not be good enough for the PhD program. Should I apply to the MA program instead?**<br>
 No. The MA program is not a stepping stone into the PhD program. It is a professional degree and the admissions standards are the same.
 
-**I have been out of school for several years and no longer have contact with my professors. How do I obtain reference letters?**
+**I have been out of school for several years and no longer have contact with my professors. How do I obtain reference letters?**<br>
 You may want to use the web to try to find one or more of those professors to see if they remember you or have records of your performance. In addition, you can ask supervisors and other professional contacts to write letters on your behalf.
 
-**I have taken graduate courses already, at other institutions. Can I transfer those credits in?**
+**I have taken graduate courses already, at other institutions. Can I transfer those credits in?**<br>
 You can petition for transfer after your enrollment begins. It is not part of the admissions process. We can only consider graduate courses in sociology that directly correspond to courses that we offer. As many as 12 credits can transfer in, subject to approval.
 
-**My GRE scores are old. Can I still use them?**
+**My GRE scores are old. Can I still use them?**<br>
 Your scores must be from the past five years, using the application deadline as the marker. If your scores will be more than five years old as of the application deadline, you need to re-take the GREs.
 
-**What is the minimum GRE score for admission?**
+**What is the minimum GRE score for admission?**<br>
 We evaluate GRE scores on a competitive basis, and we look at the whole application, so there is no actual minimum. As a guide, our average GRE score (focusing on the sum of the verbal and quantitative scores) is 310, and we rarely admit students with scores below 300.
 
-**Should I visit the department? Will that help my application?**
+**How do I take the GRE during the COVID-19 pandemic?**<br> 
+ETS is allowing individuals to take the GRE test at home on their computer. If you anticipate or encounter difficulty with access to taking the GRE, please contact Joshua Klugman, Director of Graduate Studies, at [klugman@temple.edu](mailto:klugman@temple.edu).
+
+**Should I visit the department? Will that help my application?**<br>
 Because many appicants do not have the opportunity to visit, we do not schedule visits for any applicants prior to the admissions process. Applicants offered admission to the PhD program will be invited for a visit to assist with their decision. Applicants offered admission to the MA program are welcome to request a chance to visit the department.
 
-**Should I contact individual faculty to see if they are taking new students?**
+**Should I contact individual faculty to see if they are taking new students?**<br>
 No, our admissions process is run at the department level, not by individual faculty. You do not come into the program with a specific advisor and faculty do not have a set number of students they work with. Once admitted, you will have opportunities to build relationships and find an advisor.
 
-**Can I take courses in the program before I apply?**
+**Can I take courses in the program before I apply?**<br>
 Yes. You can take up to 3 courses prior to being admitted to the program. You will need to identify the course you wish to take and first reach out to the professor by email for permission. Forward that to the graduate director for additional permission. Then contact Continuing Studies to schedule an enrollment appointment. They will step your through the registration process.
 
-**I applied. When will I hear?**
+**I applied. When will I hear?**<br>
 PhD applicants: Applications are reviewed in January and early decisions are made in February.
 
 Initially, we will make admissions offers only to a small handful of students based on the number of funded positions we have. We will also reject applicants who are not admissible. Those decisions can be seen online. Students who do not receive an offer, but are not rejected, are on a waitlist for funded positions and will be contacted if and when a position is available. It can sometimes take until mid-April before we finalize the PhD cohort. Waitlisted students will be offered unfunded enrollment in the MA program.
