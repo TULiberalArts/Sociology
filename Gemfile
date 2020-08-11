@@ -38,3 +38,5 @@ end
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
 gem "jekyll-redirect-from"
+
+gem "kramdown-parser-gfm", "~> 1.1"
