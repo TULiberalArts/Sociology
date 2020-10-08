@@ -18,10 +18,19 @@ Our sociology graduate degree programs are devoted to the training of research s
 ## Academic Offerings
 The Department of Sociology offers three graduate programs:
 
-- The [Master of Arts in Sociology](https://www.temple.edu/academics/degree-programs/sociology-ma-la-soc-ma) provides advanced training in sociological theory, statistics and research methods. Students prepare for research careers, social services careers, and PhD programs.
-- The [Professional Science Master’s in Applied Sociology](https://www.temple.edu/academics/degree-programs/applied-sociology-psm-la-asoc-psm) provides advanced training in social research methods, including research design, research ethics, quantitative research, and qualitative research.
-- The PhD in Sociology: _Due to the economic downturn, the faculty of the Department of Sociology has decided to not admit any first-year PhD students for 2021-2022 and instead support our older students.  We are still doing admissions for our Master's programs ([MA](https://bulletin.temple.edu/graduate/scd/cla/sociology-ma/#admissiontext) and [PSM](https://bulletin.temple.edu/graduate/scd/cla/applied-sociology-psm/#admissiontext)) and we plan to do admissions next year for PhD students (for 2022-2023)_.
-- The [Urban Bioethics MA and Sociology MA Dual Degree Program](https://sites.temple.edu/maubmasoc/) provides advanced training in urban bioethics, community engagement, sociological theory, statistics and research methods. Students prepare for research careers, social services careers, public health careers, and PhD programs.
+### Master of Arts in Sociology
+The [Master of Arts in Sociology](https://www.temple.edu/academics/degree-programs/sociology-ma-la-soc-ma) provides advanced training in sociological theory, statistics and research methods. Students prepare for research careers, social services careers, and PhD programs.
+
+### Professional Science Master’s in Applied Sociology
+The [Professional Science Master’s in Applied Sociology](https://www.temple.edu/academics/degree-programs/applied-sociology-psm-la-asoc-psm) provides advanced training in social research methods, including research design, research ethics, quantitative research, and qualitative research.
+
+### PhD in Sociology
+The PhD in Sociology: _Due to the economic downturn, the faculty of the Department of Sociology has decided to not admit any first-year PhD students for 2021-2022 and instead support our older students.  We are still doing admissions for our Master's programs ([MA](https://bulletin.temple.edu/graduate/scd/cla/sociology-ma/#admissiontext) and [PSM](https://bulletin.temple.edu/graduate/scd/cla/applied-sociology-psm/#admissiontext)) and we plan to do admissions next year for PhD students (for 2022-2023)_.
+
+### Urban Bioethics MA and Sociology MA Dual Degree Program
+The [Urban Bioethics MA and Sociology MA Dual Degree Program](https://sites.temple.edu/maubmasoc/) provides advanced training in urban bioethics, community engagement, sociological theory, statistics and research methods. Students prepare for research careers, social services careers, public health careers, and PhD programs.
+
+### Urban Bioethics MA and Sociology PhD Dual Degree Program
 - The [Urban Bioethics MA and Sociology PhD Dual Degree Program](https://sites.temple.edu/maubphdsoc/) concentrates on public health, and medical sociology to prepare students for research and teaching in academic settings and for advanced work in applied research settings.
 
 ## Admissions Process
