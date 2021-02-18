@@ -25,13 +25,13 @@ The [Master of Arts in Sociology](https://www.temple.edu/academics/degree-progra
 The [Professional Science Master’s in Applied Sociology](https://www.temple.edu/academics/degree-programs/applied-sociology-psm-la-asoc-psm) provides advanced training in social research methods, including research design, research ethics, quantitative research, and qualitative research.
 
 ### PhD in Sociology
-The PhD in Sociology: _Due to the economic downturn, the faculty of the Department of Sociology has decided to not admit any first-year PhD students for 2021-2022 and instead support our older students.  We are still doing admissions for our Master's programs ([MA](https://bulletin.temple.edu/graduate/scd/cla/sociology-ma/#admissiontext) and [PSM](https://bulletin.temple.edu/graduate/scd/cla/applied-sociology-psm/#admissiontext)) and we plan to do admissions next year for PhD students (for 2022-2023)_.
+The PhD in Sociology: _Due to the economic downturn, the faculty of the Department of Sociology has decided to not admit any first-year PhD students for 2021-2022 and instead support our older students. We are still doing admissions for our Master's programs ([MA](https://bulletin.temple.edu/graduate/scd/cla/sociology-ma/#admissiontext) and [PSM](https://bulletin.temple.edu/graduate/scd/cla/applied-sociology-psm/#admissiontext)) and we plan to do admissions next year for PhD students (for 2022-2023)_.
 
 ### Urban Bioethics MA and Sociology MA Dual Degree Program
-The [Urban Bioethics MA and Sociology MA Dual Degree Program](https://sites.temple.edu/maubmasoc/) provides advanced training in urban bioethics, community engagement, sociological theory, statistics and research methods. Students prepare for research careers, social services careers, public health careers, and PhD programs.
+The Urban Bioethics MA and Sociology MA Dual Degree Program provides advanced training in urban bioethics, community engagement, sociological theory, statistics and research methods. Students prepare for research careers, social services careers, public health careers, and PhD programs.
 
 ### Urban Bioethics MA and Sociology PhD Dual Degree Program
-- The [Urban Bioethics MA and Sociology PhD Dual Degree Program](https://sites.temple.edu/maubphdsoc/) concentrates on public health, and medical sociology to prepare students for research and teaching in academic settings and for advanced work in applied research settings.
+- The Urban Bioethics MA and Sociology PhD Dual Degree Program concentrates on public health, and medical sociology to prepare students for research and teaching in academic settings and for advanced work in applied research settings.
 
 ## Admissions Process
 Please follow the links above to learn more about the Sociology graduate program requirements, application checklist, dates and deadlines and instructions on how to apply.
