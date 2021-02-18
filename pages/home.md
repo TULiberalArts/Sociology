@@ -54,8 +54,8 @@ For further information regarding sociology requirements and to make an appointm
 - [Master of Arts in Sociology](https://www.temple.edu/academics/degree-programs/sociology-ma-la-soc-ma)
 - [Professional Science Master’s in Applied Sociology ](https://www.temple.edu/academics/degree-programs/applied-sociology-psm-la-asoc-psm)
 - PhD in Sociology: _Due to the economic downturn, the faculty of the Department of Sociology has decided to not admit any first-year PhD students for 2021-2022 and instead support our older students.  We are still doing admissions for our Master's programs ([MA](https://bulletin.temple.edu/graduate/scd/cla/sociology-ma/#admissiontext) and [PSM](https://bulletin.temple.edu/graduate/scd/cla/applied-sociology-psm/#admissiontext)) and we plan to do admissions next year for PhD students (for 2022-2023)_
-- [Urban Bioethics MA and Sociology MA Dual Degree Program](https://sites.temple.edu/maubmasoc/)
-- [Urban Bioethics MA and Sociology PhD Dual Degree Program](https://sites.temple.edu/maubphdsoc/)
+- Urban Bioethics MA and Sociology MA Dual Degree Program
+- Urban Bioethics MA and Sociology PhD Dual Degree Program
 
 ___
 
