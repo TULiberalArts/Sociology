@@ -66,5 +66,5 @@ Recently, our alumni have secured positions with the following employers:
 - [College of Liberal Arts Professional Development Office](https://liberalarts.temple.edu/advising/professional-development)
 - [Idealist.org](https://www.idealist.org/)
 - Internships.com
-- [American Sociological Association: Careers in Sociology](http://www.asanet.org/career-center/careers-sociology)
+- American Sociological Association: Careers in Sociology
 - [Campus Philly](http://campusphilly.org/)
